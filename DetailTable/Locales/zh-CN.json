@@ -1,0 +1,1174 @@
+﻿{
+    "BootstrapBlazor.Components.AutoComplete": {
+        "NoDataTip": "无匹配数据",
+        "PlaceHolder": "请输入"
+    },
+    "BootstrapBlazor.Components.BarcodeReader": {
+        "ButtonScanText": "扫描",
+        "ButtonStopText": "关闭",
+        "AutoStopText": "自动关闭",
+        "DeviceLabel": "摄像头",
+        "InitDevicesString": "正在识别摄像头",
+        "NotFoundDevicesString": "未找到视频相关设备"
+    },
+    "BootstrapBlazor.Components.Captcha": {
+        "HeaderText": "请完成安全验证",
+        "BarText": "向右滑动填充拼图",
+        "FailedText": "加载失败",
+        "LoadText": "正在加载...",
+        "TryText": "再试一次"
+    },
+    "BootstrapBlazor.Components.Camera": {
+        "DeviceLabel": "摄像头",
+        "InitDevicesString": "正在识别摄像头",
+        "PlayText": "开启",
+        "StopText": "关闭",
+        "PhotoText": "拍照",
+        "FrontText": "前置",
+        "BackText": "后置",
+        "NotFoundDevicesString": "未找到视频相关设备"
+    },
+    "BootstrapBlazor.Components.Calendar": {
+        "PreviousMonth": "上一月",
+        "Today": "今天",
+        "NextMonth": "下一月",
+        "PreviousWeek": "上一周",
+        "WeekText": "本周",
+        "NextWeek": "下一周",
+        "WeekHeaderText": "周",
+        "WeekLists": "日,一,二,三,四,五,六",
+        "WeekNumberText": "第{0}周",
+        "Months": "1,2,3,4,5,6,7,8,9,10,11,12",
+        "Title": "{0}年{1}月"
+    },
+    "BootstrapBlazor.Components.Console": {
+        "HeaderText": "系统监控",
+        "LightTitle": "通讯指示灯",
+        "ClearButtonText": "清屏",
+        "AutoScrollText": "自动滚屏"
+    },
+    "BootstrapBlazor.Components.DateTimePicker": {
+        "DatePlaceHolder": "选择日期",
+        "TimePlaceHolder": "选择时间",
+        "DateTimePlaceHolderText": "请选择日期时间",
+        "DatePlaceHolderText": "请选择日期",
+        "TimeFormat": "hh\\:mm\\:ss",
+        "DateFormat": "yyyy-MM-dd",
+        "DateTimeFormat": "yyyy-MM-dd HH\\:mm\\:ss",
+        "AiraPrevYearLabel": "前一年",
+        "AiraNextYearLabel": "后一年",
+        "AiraPrevMonthLabel": "上一月",
+        "AiraNextMonthLabel": "下一月",
+        "ClearButtonText": "清空",
+        "NowButtonText": "此刻",
+        "ConfirmButtonText": "确定",
+        "CancelButtonText": "取消",
+        "YearText": "{0}年",
+        "MonthText": "{0}月",
+        "YearPeriodText": "{0}年- {1}年",
+        "Months": "1,2,3,4,5,6,7,8,9,10,11,12",
+        "MonthLists": "一月,二月,三月,四月,五月,六月,七月,八月,九月,十月,十一月,十二月",
+        "WeekLists": "日,一,二,三,四,五,六",
+        "GenericTypeErroMessage": "DateTimePicker组件仅支持绑定泛型为DateTime或者DateTime?",
+        "Today": "今天",
+        "Yesterday": "昨天",
+        "Weekago": "一周前"
+    },
+    "BootstrapBlazor.Components.DateTimeRange": {
+        "SeparateText": "至",
+        "StartPlaceHolderText": "开始日期",
+        "EndPlaceHolderText": "结束日期",
+        "ClearButtonText": "清空",
+        "ConfirmButtonText": "确定",
+        "DateFormat": "yyyy-MM-dd",
+        "Last7Days": "最近7天",
+        "Last30Days": "最近30天",
+        "ThisMonth": "这个月",
+        "LastMonth": "上个月"
+    },
+    "BootstrapBlazor.Components.ResultDialogOption": {
+        "ButtonYesText": "确认",
+        "ButtonNoText": "取消",
+        "ButtonCloseText": "关闭"
+    },
+    "BootstrapBlazor.Components.DropdownList": {
+        "PlaceHolder": "请选择..."
+    },
+    "BootstrapBlazor.Components.Editor": {
+        "PlaceHolder": "点击后编辑"
+    },
+    "BootstrapBlazor.Components.EditorForm": {
+        "ModelInvalidOperationExceptionMessage": "验证表单与{0}绑定模型不一致",
+        "PlaceHolderText": "请输入 ..."
+    },
+    "BootstrapBlazor.Components.EqualToValidator": {
+        "ErrorMessage": "你的输入不相同"
+    },
+    "BootstrapBlazor.Components.GoTop": {
+        "TooltipText": "返回顶端"
+    },
+    "BootstrapBlazor.Components.Layout": {
+        "TooltipText": "点击展开收缩左侧菜单"
+    },
+    "BootstrapBlazor.Components.MultiSelect": {
+        "PlaceHolder": "点击进行多选...",
+        "SelectAllText": "全选",
+        "ReverseSelectText": "反选",
+        "ClearText": "清除"
+    },
+    "BootstrapBlazor.Components.Pagination": {
+        "AiraPageLabel": "分页组件",
+        "AiraPrevPageText": "上一页",
+        "AiraFirstPageText": "第一页",
+        "AiraNextPageText": "下一页",
+        "PageInfoText": "显示第{0}到第{1}条记录",
+        "TotalInfoText": " ，总共{0}条记录",
+        "PrePageInfoText": "每页显示",
+        "RowInfoText": "条记录",
+        "LabelString": "第{0}页",
+        "SelectItemsText": "{0}"
+    },
+    "BootstrapBlazor.Components.PopConfirmButton": {
+        "CloseButtonText": "关闭",
+        "ConfirmButtonText": "确定",
+        "Content": "确认删除吗？"
+    },
+    "BootstrapBlazor.Components.QRCode": {
+        "PlaceHolder": "请输入内容",
+        "ClearButtonText": "清除",
+        "GenerateButtonText": "生成"
+    },
+    "BootstrapBlazor.Components.RequiredValidator": {
+        "ErrorMessage": "这是必填字段"
+    },
+    "BootstrapBlazor.Components.Search": {
+        "SearchButtonText": "搜索"
+    },
+    "BootstrapBlazor.Components.Select": {
+        "PlaceHolder": "请选择..."
+    },
+    "BootstrapBlazor.Components.StringLengthValidator": {
+        "ErrorMessage": "最多可以输入{{0}}个字符"
+    },
+    "BootstrapBlazor.Components.SweetAlert": {
+        "CloseButtonText": "关闭",
+        "CancelButtonText": "取消",
+        "ConfirmButtonText": "确认"
+    },
+    "BootstrapBlazor.Components.Switch": {
+        "OnInnerText": "开",
+        "OffInnerText": "关"
+    },
+    "BootstrapBlazor.Components.Tab": {
+        "CloseCurrentTabText": "关闭当前标签",
+        "CloseOtherTabsText": "关闭其他标签",
+        "CloseAllTabsText": "关闭所有标签"
+    },
+    "BootstrapBlazor.Components.Table": {
+        "AddButtonText": "新建",
+        "EditButtonText": "编辑",
+        "DeleteButtonText": "删除",
+        "SaveButtonText": "保存",
+        "CancelDeleteButtonText": "取消",
+        "ConfirmDeleteButtonText": "删除",
+        "ConfirmDeleteContentText": "确认要删除选中的所有行吗？",
+        "RefreshButtonText": "刷新",
+        "ColumnButtonTitleText": "列显示隐藏控制",
+        "ColumnButtonText": "列",
+        "ExportButtonText": "导出数据",
+        "SearchPlaceholderText": "搜索",
+        "SearchButtonText": "搜索",
+        "ResetButtonText": "清空过滤",
+        "AdvanceButtonText": "高级搜索",
+        "CheckboxDisplayText": "选择",
+        "EditModalTitle": "编辑数据窗口",
+        "AddModalTitle": "新建数据窗口",
+        "ColumnButtonTemplateHeaderText": "操作",
+        "SearchTooltip": "<div class='search-input-tooltip'>输入任意字符串全局搜索</br><kbd>Enter</kbd>搜索<kbd>ESC</kbd>清除搜索</div >",
+        "SearchModalTitle": "搜索条件",
+        "AddButtonToastTitle": "新建数据",
+        "AddButtonToastContent": "未提供保存数据方法，无法新建数据",
+        "EditButtonToastTitle": "编辑数据",
+        "EditButtonToastNotSelectContent": "请选择要编辑的数据",
+        "EditButtonToastMoreSelectContent": "只能选择一项要编辑的数据",
+        "EditButtonToastNoSaveMethodContent": "未提供保存数据方法，无法编辑数据",
+        "SaveButtonToastTitle": "保存数据",
+        "SaveButtonToastContent": "未提供保存数据方法，无法保存数据",
+        "SaveButtonToastResultContent": "保存数据{0}, {1}秒后自动关闭",
+        "SuccessText": "成功",
+        "FailText": "失败",
+        "DeleteButtonToastTitle": "删除数据",
+        "DeleteButtonToastContent": "请选择要删除的数据, {0}秒后自动关闭",
+        "DeleteButtonToastResultContent": "删除数据{0}, {1}秒后自动关闭",
+        "DataServiceInvalidOperationText": "未注册'BootstrapBlazor.Components.IDataService`1[{0}]'服务"
+    },
+    "BootstrapBlazor.Components.EditDialog": {
+        "CloseButtonText": "关闭",
+        "SaveButtonText": "保存"
+    },
+    "BootstrapBlazor.Components.TableFilter": {
+        "Title": "过滤",
+        "ClearButtonText": "重置",
+        "FilterButtonText": "确认",
+        "BoolFilter.AllText": "全部",
+        "BoolFilter.TrueText": "选中",
+        "BoolFilter.FalseText": "未选中",
+        "GreaterThanOrEqual": "大于等于",
+        "LessThanOrEqual": "小于等于",
+        "GreaterThan": "大于",
+        "LessThan": "小于",
+        "Equal": "等于",
+        "NotEqual": "不等于",
+        "Contains": "包含",
+        "NotContains": "不包含",
+        "EnumFilter.AllText": "全选"
+    },
+    "BootstrapBlazor.Components.SearchDialog": {
+        "ResetButtonText": "重置",
+        "QueryButtonText": "查询"
+    },
+    "BootstrapBlazor.Components.Timer": {
+        "PauseText": "暂停",
+        "ResumeText": "继续",
+        "CancelText": "取消",
+        "StarText": "开始计时"
+    },
+    "BootstrapBlazor.Components.Toggle": {
+        "OnText": "展开",
+        "OffText": "收缩"
+    },
+    "BootstrapBlazor.Components.Transfer": {
+        "LeftPanelText": "列表1",
+        "RightPanelText": "列表2"
+    },
+    "BootstrapBlazor.Components.Upload": {
+        "DeleteButtonText": "删除",
+        "BrowserButtonText": "浏览",
+        "FileExtensions": "扩展名须为以下几种格式: {0}",
+        "FileSizeValidation": "档案大小限为 {0}"
+    },
+    "Localization.Text": {
+        "Hello": "你好世界！",
+        "Freezing": "冻结",
+        "Language": "语言",
+        "Yes": "是",
+        "No": "否",
+        "SuccessButSomeFailed": "删除成功但是有几笔资料删除失败",
+        "Func_Create": "新建",
+        "Func_BatchCreate": "批次编辑",
+        "Func_Edit": "编辑",
+        "Func_Delete": "删除",
+        "Func_Save": "储存",
+        "Func_Cancel": "取消",
+        "Func_Close": "关闭",
+        "Func_Search": "搜寻",
+        "Func_Clear": "清除",
+        "Func_Select": "选择",
+        "Func_Refresh": "刷新",
+        "Func_TakeNo": "取号",
+        "Func_PrintLabel": "列印标签",
+        "Func_Update": "更新",
+        "Func_Upload": "上传",
+        "Func_DownloadTemplate": "下载范本",
+        "Msg_SelectWith": "请选择{0}",
+        "Msg_SelectWithBefore": "请先选择{0}",
+        "Msg_NoSelectedItem": "未选择资料",
+        "Msg_DistributionUserItem": "选择使用者",
+        "Msg_DistributionFunctionItem": "选择权限",
+        "Msg_ForeignKeyFault": "此{0}资料已有其他资料表参照，因此无法删除",
+        "Msg_PositiveInteger": "必须为正整数",
+        "Msg_PositiveDouble": "不可为负数或0",
+        "Msg_TemplateNotFound": "无法找到范本，请通知管理员",
+        "Msg_IsExist": "{0}已存在",
+        "Msg_IsNotExist": "{0}不存在",
+        "Msg_ConfirmDelete": "确定要删除{0}吗？",
+        "Msg_Empty": "{0}不可为空",
+        "Msg_ReadError": "读取错误",
+        "Msg_Error": "{0}错误",
+        "Msg_StartDateEndDate": "开始日期不可大于结束日期",
+        "Text_Success": "成功",
+        "Text_Failed": "失败",
+        "Text_TableFuncToastTitle": "{0}资料",
+        "Text_TableFuncToastNotSelectContent": "请选择要{0}的资料",
+        "Text_TableFuncToastMoreSelectContent": "只能选择一项要{0}的资料",
+        "Text_TableFuncToastResultContent": "{0}资料{1}",
+        "Text_TableConfirmContentText": "确认要{0}选中的所有行吗？",
+        "Text_Project": "项目",
+        "Text_All": "所有",
+        "Text_SearchBlock": "搜寻区块",
+        "Text_Machine": "设备",
+        "Text_DutModel": "待测物型号",
+        "Text_Function": "权限",
+        "Text_Location": "位置",
+        "Text_MachineGroup": "设备群组",
+        "Text_MachineStatus": "设备机况",
+        "Text_ProjectMember": "项目成员",
+        "Text_Role": "角色",
+        "Text_TestPlan": "测试计划",
+        "Text_User": "使用者",
+        "Text_Supplier": "供应商",
+        "Text_Vendor": "供应商",
+        "Text_WorkOrder": "工单",
+        "Text_PO": "采购订单",
+        "Text_PONO": "采购订单",
+        "Text_POItem": "订单项次",
+        "Text_POLot": "物料条码",
+        "Text_PartNO": "料件编号",
+        "Text_DO": "送货单",
+        "PROJECT": "项目",
+        "MODEL": "待测物型号",
+        "MACHINEGROUP": "设备群组",
+        "MACHINE": "设备/群组",
+        "MACHINESTATUSCHANGE": "设备机况记录",
+        "PROJECTMEMBERMAINTAIN": "项目成员",
+        "LOCATION": "位置",
+        "WORKORDER": "工单",
+        "BOOKING": "预约排程",
+        "BOOKINGADJUST": "排程顺序",
+        "WORKSTATION": "设备",
+        "TESTPLANMAINTAINENCE": "测试计划",
+        "MACHINESTATUS": "设备监控",
+        "CHANNELSTATUS": "通道现况",
+        "MACHINEUTE": "稼动率",
+        "CHANNELUTE": "通道稼动率",
+        "SAMPLINGRECORD": "取样纪录",
+        "STEPRECORD": "工步统计",
+        "CALENDARTIME": "行事历",
+        "USERS": "使用者",
+        "ROLE": "角色",
+        "CHANGEPASSWORD": "密码变更"
+    },
+    "Sajet.Barcode.Data.SYS_USER": {
+        "USER_ID": "帐号",
+        "USER_NAME": "使用者名称",
+        "PASSWD": "密码",
+        "EXPIRED_DATE": "有效日期",
+        "EMAIL": "邮件地址",
+        "CROSS_PROJECT": "跨项目",
+        "UPDATE_USER": "使用者",
+        "UPDATE_TIME": "更新时间",
+        "ENABLED": "可使用"
+    },
+    "Sajet.Server.Shared.MainLayout": {
+        "Welcome": "欢迎",
+        "Login": "登入",
+        "Logout": "注销",
+        "Basic Information": "基本数据",
+        "PROJECT": "项目",
+        "MODEL": "待测物型号",
+        "MACHINEGROUP": "设备群组",
+        "MACHINE": "设备/群组",
+        "MACHINESTATUSCHANGE": "设备机况记录",
+        "PROJECTMEMBERMAINTAIN": "项目成员",
+        "LOCATION": "位置",
+        "Task Management": "任务管理",
+        "WORKORDER": "工单",
+        "BOOKING": "预约排程",
+        "BOOKINGADJUST": "排程顺序",
+        "WORKSTATION": "设备",
+        "TESTPLANMAINTAINENCE": "测试计划",
+        "Real-time Monitoring": "实时监控",
+        "MACHINESTATUS": "设备监控",
+        "CHANNELSTATUS": "通道现况",
+        "Report Query": "报表查询",
+        "MACHINEUTE": "稼动率",
+        "CHANNELUTE": "通道稼动率",
+        "SAMPLINGRECORD": "取样纪录",
+        "STEPRECORD": "工步统计",
+        "System Management": "系统管理",
+        "CALENDARTIME": "行事历",
+        "Barcode": "云端条码列印平台",
+        "Change Password": "密码变更"
+    },
+    "Sajet.Server.Pages.Login": {
+        "Login": "登入",
+        "Enter ...": "请输入 ...",
+        "Submit": "登入",
+        "Loading": "载入中",
+        "Login failed": "登入失败",
+        "Please confirm User No or Password.": "请重新确认帐号或密码",
+        "Authorization failed.": "授权失败",
+        "Barcode": "云端条码列印平台"
+    },
+    "Sajet.Data.UserInfo": {
+        "UserId": "账号",
+        "UserId.Required": "请输入 {0}",
+        "Password": "密码",
+        "Password.Required": "请输入 {0}"
+    },
+    //Machine
+    "Sajet.Barcode.Pages.BasicInformation.Machines.MachineVM": {
+        "Machine": "设备编号",
+        "Channel": "通道数",
+        "Chamber": "温箱编号",
+        "MachineGroup": "设备群组",
+        "UpdateTime": "更新时间",
+        "UpdateUser": "使用者",
+        "Enabled": "可使用",
+        "Location": "位置",
+        "Machine.Required": "请输入 {0}",
+        "Channel.Required": "请输入 {0}",
+        "MachineGroup.Required": "请输入 {0}"
+    },
+    "Sajet.Barcode.Pages.BasicInformation.Machines.MachineGroupVM": {
+        "MachineGroup": "设备群组",
+        "MachineGroupDescription": "描述",
+        "MachineModel": "设备型号",
+        "Supplier": "供应商",
+        "UpdateTime": "更新时间",
+        "UpdateUser": "使用者",
+        "Enabled": "可使用",
+        "EditorName": "编辑工作站",
+        "MachineGroup.Required": "请输入 {0}"
+    },
+    "Sajet.Barcode.Pages.BasicInformation.Machines": {
+        "MachineData": "设备",
+        "MachineGroup": "设备群组",
+        "MachineGroupDescription": "描述",
+        "MachineModel": "设备型号",
+        "Supplier": "供应商",
+        "UpdateTime": "更新时间",
+        "UpdateUser": "使用者",
+        "Enabled": "可使用",
+        "EditorName": "编辑工作站",
+        "Close": "关闭",
+        "ForeignKeyFault": "此设备资料已有其他资料表参照，因此无法删除",
+        "Machine.Required": "请输入 {0}",
+        "Channel.Required": "请输入 {0}",
+        "MachineGroup.Required": "请输入 {0}",
+        "MachineIsDuplicated": "设备资料重复",
+        "MachineGroupIsDuplicated": "设备群组资料重复"
+    },
+    // CalendarMaintain
+    "Sajet.Barcode.Pages.SystemManagement.CalendarMaintain": {
+        "Msg_WorkDate_Exist": "日期已存在",
+        "Msg_EditDefault": "预设资料无法编辑",
+        "Msg_DeleteDefault": "预设资料无法删除",
+        "Msg_DateTimeRange_Invalid": "起讫日期选择错误",
+        "Msg_IncludeDayOfWeek_Required": "请选择至少一项周次",
+        "Text_TotalTime": "工时设定"
+    },
+    "Sajet.Barcode.Pages.SystemManagement.CalendarMaintain.CalendarTimeVM": {
+        "WorkDate": "日期",
+        "TotalTime": "工时(小时)",
+        "WorkDate.Required": "请输入 {0}",
+        "TotalTime.Required": "请输入 {0}",
+        "TotalTime.Range": "{0}须在{1}和{2}区间内"
+    },
+    "Sajet.Barcode.Pages.SystemManagement.CalendarMaintain.BatchCreateVM": {
+        "DateTimeRange": "起讫日期",
+        "TotalTime": "工时(小时)",
+        "IncludeDayOfWeek": "包含周次",
+        "TotalTime.Required": "请输入 {0}",
+        "TotalTime.Range": "{0}须在{1}和{2}区间内"
+    },
+    // CalendarMaintain
+    // DUTModel
+    "Sajet.Barcode.Pages.BasicInformation.DUTModel.ModelVM": {
+        "DUTModelID": "编号",
+        "Project": "项目",
+        "DUTModel": "待测物型号",
+        "DUTModelVersion": "版本",
+        "DUTModelDescription": "描述",
+        "UpdateTime": "更新时间",
+        "UpdateUser": "使用者",
+        "DUTModelID.Required": "请输入 {0}",
+        "Project.Required": "请输入 {0}",
+        "DUTModel.Required": "请输入 {0}"
+    },
+    "Sajet.Barcode.Pages.BasicInformation.DUTModel": {
+        "CloseText": "关闭",
+        "ModelDuplicate": "待测物型号资料重复"
+    },
+    //MachineStatus
+    "Sajet.Barcode.Pages.BasicInformation.MachineStatusChange.MachineStatusChangeVM": {
+        "Machine": "设备编号",
+        "StartTime": "开始时间",
+        "EndTime": "结束时间",
+        "Status": "状态代码",
+        "StatusType": "状态类型",
+        "StatusName": "状态",
+        "Description": "备注",
+        "UpdateUser": "使用者",
+        "UpdateTime": "更新时间",
+        "StartDateEndDate": "开始时间须小于结束时间",
+        "Machine.Required": "请输入 {0}",
+        "StartTime.Required": "请输入 {0}",
+        "EndTime.Required": "请输入 {0}",
+        "Status.Required": "请输入 {0}",
+        "StatusType.Required": "请输入 {0}",
+        "StatusName.Required": "请输入 {0}"
+    },
+    "Sajet.Barcode.Pages.BasicInformation.MachineStatusChange": {
+        "Close": "关闭",
+        "StartDateEndDate": "开始时间须小于结束时间",
+        "StartDateEqualsEndDate": "开始时间不能等于结束时间",
+        "OverlapTime": "时间范围重叠",
+        "DuplicateStartTime": "开始时间重复",
+        "StandByOrProductiveCannotBeDeleted": "状态类型为STANDBY或PRODUCTIVE的资料皆不可删除",
+        "TestingStartTime": "因为此设备的状态为'测试中'，故开始时间不可大于此设备的开始时间",
+        "CrossDay": "开始时间与结束时间不可跨日"
+    },
+    ///
+    //Project
+    "Sajet.Barcode.Pages.BasicInformation.Project.ProjectVM": {
+        "Project": "项目名称",
+        "Owner": "管理者",
+        "ProjectDescription": "描述",
+        "UpdateTime": "更新时间",
+        "UpdateUser": "使用者",
+        "Enabled": "可使用",
+        "UserName": "项目成员",
+        "OwnerName": "管理者",
+        "Project.Required": "请输入 {0}",
+        "Owner.Required": "请输入 {0}",
+        "OwnerName.Required": "请输入 {0}"
+    },
+    "Sajet.Barcode.Pages.BasicInformation.Project": {
+        "ForeignKeyFault": "此项目资料已有其他资料表参照，因此无法删除",
+        "Msg_Project_Duplicate": "项目资料重复"
+    },
+    ///
+    //ProjectMemberMaintain
+    "Sajet.Barcode.Pages.BasicInformation.ProjectMemberMaintain.ProjectMemberMaintainVM": {
+        "Project": "项目名称",
+        "Owner": "管理者",
+        "ProjectDescription": "描述",
+        "UpdateTime": "更新时间",
+        "UpdateUser": "使用者",
+        "Enabled": "可使用",
+        "UserId": "项目成员",
+        "UserName": "项目成员",
+        "OwnerName": "管理者",
+        "Project.Required": "请输入 {0}",
+        "Owner.Required": "请输入 {0}",
+        "OwnerName.Required": "请输入 {0}"
+    },
+    "Sajet.Barcode.Pages.BasicInformation.ProjectMemberMaintain": {
+        "ForeignKeyFault": "此项目资料已有其他资料表参照，因此无法删除",
+        "Msg_Project_Duplicate": "项目资料重复"
+    },
+    ///
+    //Role
+    "Sajet.Barcode.Pages.SystemManagement.RoleManagement.RoleVM": {
+        "RoleId": "角色",
+        "RoleDescription": "描述",
+        "UpdateTime": "更新时间",
+        "UpdateUser": "使用者",
+        "RoleFunctionNames": "角色权限",
+        "Enabled": "可使用"
+    },
+    "Sajet.Barcode.Pages.SystemManagement.RoleManagement": {
+        "Msg_Role_Duplicate": "角色资料重复",
+        "DistributeUser": "选择使用者",
+        "DistributeFunction": "选择权限",
+        "ForeignKeyFault": "此角色资料已有其他资料表参照，因此无法删除"
+    },
+    ///
+    // Enum
+    "Sajet.Barcode.Common.WoStatus": {
+        "Prepare": "准备",
+        "Ready": "资料预备",
+        "Booked": "已预约",
+        "TestAndAnalyze": "测试分析",
+        "TestComplete": "测试完成",
+        "Complete": "工单完成",
+        "AbnormalEnd": "异常终止"
+    },
+    "Sajet.Barcode.Common.LogStatus": {
+        "Create": "新建",
+        "Edit": "编辑",
+        "Delete": "删除",
+        "Execute": "执行"
+    },
+    "Sajet.Barcode.Common.BookingStatus": {
+        "Booked": "预约中",
+        "Workable": "可使用",
+        "Testing": "测试中"
+    },
+    "Sajet.Barcode.Common.DateTimeRangeMode": {
+        "Day": "日期",
+        "Month": "月份"
+    },
+    "Sajet.Barcode.Common.DOSTatus": {
+        "Initial": "初始",
+        "Receiven": "已收货",
+        "Return": "退货"
+    },
+    // Enum
+    // Selector
+    "Sajet.Barcode.Pages.Components.ProjectSelectorVM": {
+        "Project": "项目名称",
+        "Owner": "管理者",
+        "ProjectDesc": "描述"
+    },
+    "Sajet.Barcode.Pages.Components.TestPlanSelectorVM": {
+        "TestPlanId": "编号",
+        "Project": "项目",
+        "DutModel": "待测物型号",
+        "DutModelVer": "版本",
+        "MachineGroup": "设备群组",
+        "TestPlan": "测试计划",
+        "TestPlanDesc": "描述"
+    },
+    "Sajet.Barcode.Pages.Components.UserSelectorVM": {
+        "UserId": "帐号",
+        "UserName": "使用者名称"
+    },
+    "Sajet.Barcode.Pages.Components.SupplierSelectorVM": {
+        "Supplier": "供应商",
+        "SupplierDesc": "描述"
+    },
+    "Sajet.Barcode.Pages.Components.LocationSelectorVM": {
+        "Location": "位置"
+    },
+    "Sajet.Barcode.Pages.Components.MachineGroupSelectorVM": {
+        "MachineGroup": "设备群组",
+        "MachineGroupDesc": "描述",
+        "MachineModel": "设备型号",
+        "Supplier": "供应商"
+    },
+    "Sajet.Barcode.Pages.Components.WorkOrderSelectorVM": {
+        "WoNo": "工单编号",
+        "Status": "状态",
+        "Project": "项目",
+        "DutModel": "待测物型号",
+        "DutModelVer": "版本",
+        "MachineGroup": "设备群组",
+        "TestPlan": "测试计划",
+        "TestPlanTime": "计划预估时间"
+    },
+    "Sajet.Barcode.Pages.Components.MachineSelectorVM": {
+        "Machine": "设备编号",
+        "Channel": "通道数",
+        "MachineGroup": "设备群组",
+        "Location": "位置"
+    },
+    "Sajet.Barcode.Pages.Components.DutModelSelectorVM": {
+        "Project": "项目",
+        "DutModel": "待测物型号",
+        "DutModelVer": "版本",
+        "DutModelDesc": "描述"
+    },
+    "Sajet.Barcode.Pages.Components.SnEditor": {
+        "Title": "输入序号",
+        "Msg_Sn_Empty": "请输入序号",
+        "Msg_Sn_Duplicate": "序号已存在",
+        "Text_Qty": "测试数量",
+        "Text_QtyNow": "当前数量"
+    },
+    "Sajet.Barcode.Pages.Components.SnEditor.SnEditorVM": {
+        "Sn": "序号"
+    },
+    "Sajet.Barcode.Pages.Components.ProjectMemberSelectorVM": {
+        "UserId": "帐号",
+        "UserName": "使用者名称",
+        "RoleName": "角色"
+    },
+    "Sajet.Barcode.Pages.Components.MachineStatusSelectorVM": {
+        "Status": "状态代码",
+        "StatusName": "状态",
+        "StatusColor": "状态颜色",
+        "FontColor": "字体颜色",
+        "StatusType": "状态类型"
+    },
+    "Sajet.Barcode.Pages.Components.RoleSelectorVM": {
+        "RoleId": "角色",
+        "RoleDesc": "描述"
+    },
+    "Sajet.Barcode.Pages.Components.VendorSelectorVM": {
+        "VendorId": "代码",
+        "VendorName": "名称",
+        "VendorDesc": "描述"
+    },
+    "Sajet.Barcode.Pages.Components.FunctionSelectorVM": {
+        "Module": "模组",
+        "LocalizedFunctionName": "功能权限"
+    },
+    "Sajet.Barcode.Pages.Components.ProjectOwnerSelectorVM": {
+        "UserId": "帐号",
+        "UserName": "使用者名称",
+        "RoleName": "角色"
+    },
+    "Sajet.Barcode.Pages.Components.WorkOrderProjectMemberSelectorVM": {
+        "UserId": "帐号",
+        "UserName": "使用者名称"
+    },
+    //
+    // Selector
+    // WorkOrder
+    "Sajet.Barcode.Pages.TaskManagement.WorkOrder": {
+        "WorkOrderInfomation": "工单讯息",
+        "WorkOrderHistory": "历史记录",
+        "Func_CompleteWorkOrder": "工单完成",
+        "Func_AbnormalEndWorkOrder": "异常终止",
+        "Msg_WoNo_Duplicate": "工单资料重复",
+        "Msg_CheckSNList_Check": "序号清单数量须与「测试数量」相符",
+        "Msg_CompleteWorkOrder_Check": "仅状态为「测试完成」的工单，方可进行此操作",
+        "Msg_Edit_Check": "仅状态为「准备」或「资料预备」的工单，方可进行此操作",
+        "Msg_AbnormalEndWorkOrder_Check": "状态为「准备」或「资料预备」或「测试完成」的工单，方可进行此操作"
+    },
+    "Sajet.Barcode.Pages.TaskManagement.WorkOrder.WorkOrderVM": {
+        "WoNo": "工单编号",
+        "Status": "状态",
+        "Project": "项目",
+        "DutModel": "待测物型号",
+        "DutModelVer": "版本",
+        "MachineGroup": "设备群组",
+        "EngineerName": "工程师",
+        "Qty": "测试数量",
+        "TestPlan": "测试计划",
+        "TestPlanTime": "计划预估时间",
+        "MailGroupName": "邮件群组",
+        "DueDate": "预计完成时间",
+        "CheckSN": "序号检查",
+        "CheckSNList": "序号清单",
+        "CreateTime": "建立时间",
+        "CreateUser": "建立者",
+        "CloseTime": "完成时间",
+        "CloseUser": "完成者",
+        "InputQty": "投入数量",
+        "OutputQty": "完工数量",
+        "UpdateTime": "更新时间",
+        "UpdateUserName": "使用者",
+        "Remark": "备注",
+        "TestPlanName": "测试计划",
+        // Data Annotation
+        "WoNo.Required": "请输入 {0}",
+        "DueDate.Required": "请输入 {0}",
+        "Project.Required": "请输入 {0}",
+        "DutModel.Required": "请输入 {0}"
+        // Data Annotation*
+    },
+    "Sajet.Barcode.Pages.TaskManagement.WorkOrder.WorkOrderHTVM": {
+        "WoNo": "工单编号",
+        "Status": "状态",
+        "Project": "项目",
+        "DutModel": "待测物型号",
+        "DutModelVer": "版本",
+        "MachineGroup": "设备群组",
+        "EngineerName": "工程师",
+        "Qty": "测试数量",
+        "TestPlan": "测试计划",
+        "TestPlanTime": "计划预估时间",
+        "MailGroupName": "邮件群组",
+        "DueDate": "预计完成时间",
+        "CheckSN": "序号检查",
+        "CheckSNList": "序号清单",
+        "UpdateTime": "更新时间",
+        "UpdateUserName": "使用者",
+        "Remark": "备注",
+        "TestPlanName": "测试计划",
+        "LogStatus": "异动状态"
+    },
+    // WorkOrder
+    // TestPlanMaintainence
+    "Sajet.Barcode.Pages.TaskManagement.TestPlanMaintainence": {
+        "Msg_TestPlan_Duplicate": "测试计划已存在",
+        "Text_TestPlan": "测试计划"
+    },
+    "Sajet.Barcode.Pages.TaskManagement.TestPlanMaintainence.TestPlanVM": {
+        "Project": "项目",
+        "DutModel": "待测物型号",
+        "DutModelVer": "版本",
+        "TestPlan": "测试计划",
+        "TestPlanDesc": "描述",
+        "FileName": "档案名称",
+        "HostName": "编辑工作站",
+        "IPAddress": "IP地址",
+        "UpdateUserName": "使用者",
+        "UpdateTime": "更新时间",
+        "MachineGroup": "设备群组",
+        "Enabled": "可使用",
+        "Project.Required": "请输入 {0}",
+        "DutModel.Required": "请输入 {0}",
+        "MachineGroup.Required": "请输入 {0}",
+        "TestPlan.Required": "请输入 {0}",
+        "FileName.Required": "请输入 {0}",
+        "HostName.Required": "请输入 {0}",
+        "IPAddress.Required": "请输入 {0}",
+        "Enabled.Required": "请输入 {0}"
+    },
+    // TestPlanMaintainence
+    // Booking
+    "Sajet.Barcode.Pages.TaskManagement.Booking": {
+        "Text_MachineBoard": "设备现况",
+        "Text_BookingInfomation": "设备预约",
+        "Text_BookingLog": "历史记录",
+        "Func_ToDetail": "预约",
+        "Func_ChangePriority": "变更顺序",
+        "Func_Unbatch": "拆批",
+        "Func_ToDetailAdjust": "调整",
+        "Func_PriorityUp": "往上移一位",
+        "Func_PriorityDown": "往下移一位",
+        "Msg_BookingInfomation_Selected": "请先选取设备",
+        "Msg_ChangePriority_OverMax": "预约顺序超过当前最大顺序",
+        "Msg_ChangePriority_NotModify": "预约顺序无变更",
+        "Msg_ChangePriority_CannotBeWorkable": "超过实际可使用数，无法编辑预约顺序为0",
+        "Msg_Priority_NotNonNegInteger": "预约顺序须为非负整数",
+        "Msg_Qty_NotPositiveInteger": "预约数量须为正整数",
+        "Msg_Qty_OverChannel": "预约数量超过通道数",
+        "Msg_Qty_OnlyLessThan": "预约数量只能下调",
+        "Msg_UnBatch_OnlyLessThan": "拆批数量须小于原数量"
+    },
+    "Sajet.Barcode.Pages.TaskManagement.Booking.ChamberBoardVM": {
+        "Machine": "设备编号",
+        "Chamber": "温箱编号",
+        "Channel": "通道数",
+        "FailureQty": "故障数",
+        "BookedQty": "预约数",
+        "ExecutingQty": "使用中",
+        "AvailableQty": "可使用数",
+        "RealAvailableQty": "可使用数"
+    },
+    "Sajet.Barcode.Pages.TaskManagement.Booking.BookingVM": {
+        "BookingId": "预约编号",
+        "Machine": "设备编号",
+        "Chamber": "温箱编号",
+        "WoNo": "工单编号",
+        "Qty": "预约数量",
+        "BookingStatus": "状态",
+        "Priority": "预约顺序",
+        "EstimatedHour": "计划预估时间",
+        "UpdateUserName": "使用者",
+        "UpdateTime": "更新时间",
+        "OldQty": "预约数量(原)",
+        "OldPriority": "预约顺序(原)",
+        "WoNo.Required": "请输入 {0}",
+        "Qty.Required": "请输入 {0}"
+    },
+    "Sajet.Barcode.Pages.TaskManagement.Booking.BookingLogVM": {
+        "BookingId": "预约编号",
+        "Machine": "设备编号",
+        "Chamber": "温箱编号",
+        "WoNo": "工单编号",
+        "Qty": "预约数量",
+        "BookingStatus": "状态",
+        "Priority": "预约顺序",
+        "EstimatedHour": "计划预估时间",
+        "UpdateUserName": "使用者",
+        "UpdateTime": "更新时间",
+        "Status": "状态"
+    },
+    "Sajet.Barcode.Pages.TaskManagement.Booking.MainSearchVM": {
+        "WoNo": "工单编号"
+    },
+    // Booking
+    //User
+    "Sajet.Barcode.Pages.SystemManagement.UserManagement.UserVM": {
+        "UserId": "帐号",
+        "UserName": "使用者名称",
+        "Password": "密码",
+        "ExpiredDate": "有效日期",
+        "Email": "邮件地址",
+        "UpdateUser": "使用者",
+        "UpdateTime": "更新时间",
+        "Enabled": "可使用",
+        "CrossProject": "跨项目",
+        "AdjustBooking": "是否可变更排程顺序",
+        "UserRole": "角色",
+        "VendorId": "供应商",
+        "UserId.Required": "请输入 {0}",
+        "UserName.Required": "请输入 {0}",
+        "Password.Required": "请输入 {0}"
+    },
+    "Sajet.Barcode.Pages.SystemManagement.UserManagement": {
+        "Msg_UserNo_Duplicate": "帐号资料重复",
+        "ForeignKeyFault": "此使用者资料已有其他资料表参照，因此无法删除"
+    },
+    ///
+    // MachineUtilizationRate
+    "Sajet.Barcode.Pages.ReportQuery.MachineUtilizationRate": {
+        "Text_Master": "稼动率",
+        "Text_Detail": "分时统计",
+        "Text_Date": "日期",
+        "Text_UtilizationRate": "稼动率(%)",
+        "Text_MachineUtilizationRate": "系统稼动率",
+        "Text_ChannelUtilizationRate": "通道稼动率",
+        "Func_ToDetail": "统计"
+    },
+    "Sajet.Barcode.Pages.ReportQuery.MachineUtilizationRate.MasterVM": {
+        "MachineGroup": "设备群组",
+        "Machine": "设备编号",
+        "Channel": "通道数",
+        "CalendarTime": "计划工作时间(Hr.)",
+        "MachineWorkHour": "实际工作时间(Hr.)",
+        "MachineUtilizationRate": "系统稼动率",
+        "ChannelWorkHour": "通道使用时间(Hr.)",
+        "ChannelUtilizationRate": "通道稼动率"
+    },
+    "Sajet.Barcode.Pages.ReportQuery.MachineUtilizationRate.DetailVM": {
+        "Date": "日期",
+        "Channel": "通道数",
+        "CalendarTime": "计划工作时间(Hr.)",
+        "MachineWorkHour": "实际工作时间(Hr.)",
+        "MachineUtilizationRate": "系统稼动率",
+        "ChannelWorkHour": "通道使用时间(Hr.)",
+        "ChannelUtilizationRate": "通道稼动率"
+    },
+    "Sajet.Barcode.Pages.ReportQuery.MachineUtilizationRate.MasterSearchVM": {
+        "MachineGroup": "设备群组",
+        "Machine": "设备编号"
+    },
+    "Sajet.Barcode.Pages.ReportQuery.MachineUtilizationRate.DetailSearchVM": {
+        "Machine": "设备编号",
+        "MachineGroup": "设备群组",
+        "MachineGroup.Required": "请输入 {0}",
+        "Machine.Required": "请输入 {0}"
+    },
+    "Sajet.Server.Pages.ChangePassword": {
+        "Password enter": "请输入 新密码",
+        "ConfirmPassword enter": "请输入 确认密码",
+        "Submit": "确认",
+        "Change Password": "密码变更",
+        "Change Password failed.": "密码变更失败",
+        "Barcode": "云端条码列印平台"
+    },
+    "Sajet.Server.Pages.ChangePassword.PasswordInfo": {
+        "Password": "新密码",
+        "Password.Required": "请输入 {0}",
+        "ConfirmPassword": "确认密码",
+        "ConfirmPassword.Required": "请输入 {0}",
+        "ConfirmPassword.Compare": "{0} 与 新密码 不相符"
+    },
+    "MailTranslation": {
+        "SubjectWorkOrderStatus": "工单状态通知",
+        "SubjectJobStatus": "测试任务状态通知",
+        "SubjectBookingStatus": "设备预约状态通知",
+        "SubjectWorkOrderDelay": "工单延迟 {0} 日通知",
+        "SubjectReportImportFail": "报表数据汇入失败通知",
+        "New": "新建",
+        "Delete": "删除",
+        "WorkOrder": "工单编号",
+        "Status": "状态",
+        "DueDate": "预计完成时间",
+        "Project": "项目",
+        "Model": "待测物型号",
+        "Version": "版本",
+        "MachineGroup": "设备群组",
+        "TestPlan": "测试计划",
+        "TestPlanTime": "计划预估时间",
+        "EngineerName": "工程师",
+        "BookingID": "预约编号",
+        "Machine": "设备编号",
+        "Chamber": "温箱编号",
+        "Quantity": "预约数量",
+        "Priority": "预约顺序",
+        "StartTime": "测试开始时间",
+        "EstimatedEndTime": "预计完成时间",
+        "EndTime": "测试结束时间",
+        "FilePath": "档案路径",
+        "ErrorMessage": "错误讯息",
+        "StatusWo": {
+            "Prepare": "准备",
+            "Ready": "数据预备",
+            "Booked": "已预约",
+            "TestAndAnalyze": "测试分析",
+            "TestComplete": "测试完成",
+            "Complete": "工单完成",
+            "AbnormalEnd": "异常终止"
+        },
+        "StatusJob": {
+            "Prepare": "预备中",
+            "Running": "测试中",
+            "Complete": "测试完成"
+        }
+    },
+    // MachineUtilizationRate
+    //  POSelector
+    "Sajet.Barcode.Pages.Components.POSelectorVM": {
+        "PONO": "采购订单",
+        "PODate": "采购日期"
+    },
+    //  POSelector
+    //  POLotSelector
+    "Sajet.Barcode.Pages.Components.POLotSelectorVM": {
+        "PONO": "采购订单",
+        "POItem": "订单项次",
+        "PartNO": "料件编号",
+        "LotNO": "物料条码",
+        "DONO": "送货单",
+        "Qty": "包装容量",
+        "DateCode": "日期码",
+        "UpdateTime": "更新时间"
+    },
+    "Sajet.Barcode.Pages.Components.POLotSelector.SearchFormVM": {
+        "PONO": "采购订单",
+        "POItem": "订单项次"
+    },
+    //  POLotSelector
+    //  LabelByPO
+    "Sajet.Barcode.Pages.PO.LabelByPO": {
+        "Msg_TakeNOAmoutLargeThanRemainingAmount": "取号数量超出剩余数量",
+        "POItem": "订单项次",
+        "PackingCapacity": "包装容量",
+        "PackingQty": "总包装数",
+        "TotalQty": "总数量",
+        "TotalNO": "总件数",
+        "CollapseTakeNOFormText": "取号窗格",
+        "CollapseSearchFormText": "查询窗格",
+        "Msg_Delete_DONO": "物料条码{0}无法删除:已送货",
+        "Msg_PdfPrint": "請選擇資料"
+    },
+    "Sajet.Barcode.Pages.PO.LabelByPO.TakeNoFormVM": {
+        "PONO": "采购订单",
+        "POItem": "订单项次",
+        "PartNO": "料件编号",
+        "Spec1": "料号描述",
+        "TakeNODateText": "取号日期",
+        "Qty": "采购数量",
+        "ReceiveQty": "已取数量",
+        "ReturnQty": "退回数量",
+        "DateCode": "日期码",
+        "PackingCapacity": "包装容量",
+        "PackingQty": "总包装数",
+        "TotalQty": "总数量",
+        "TotalNO": "总件数",
+        "WithoutDONO": "只显示未产生送货单",
+        "PONO.Required": "请输入 {0}",
+        "POItem.Required": "请输入 {0}",
+        "DateCode.Required": "请输入 {0}",
+        "PackingCapacity.Required": "请输入 {0}",
+        "PackingQty.Required": "请输入 {0}"
+    },
+    "Sajet.Barcode.Pages.PO.LabelByPO.POLotVM": {
+        "PONO": "采购订单",
+        "POItem": "订单项次",
+        "PartNO": "料件编号",
+        "LotNO": "物料条码",
+        "DONO": "送货单",
+        "Qty": "包装容量",
+        "DateCode": "日期码",
+        "UpdateTime": "更新时间"
+    },
+    //  LabelByPO
+    //  DeliveryByPO
+    "Sajet.Barcode.Pages.PO.DeliveryByPO": {
+        "DONO": "送货单号",
+        "CollapseDOFormText": "送货单窗格",
+        "Msg_DeleteWithRTNO": "已收货，无法删除",
+        "LotNO": "物料条码",
+        "Msg_CreateLotWithDONO": "物料条码已有送货单号"
+    },
+    "Sajet.Barcode.Pages.PO.DeliveryByPO.DOFormVM": {
+        "DONO": "送货单号",
+        "RTNO": "收货单号",
+        "Description": "备注",
+        "ManualLotNO": "刷入物料条码",
+        "DONO.Required": "请输入 {0}",
+        "ManualLotNO.PlaceHolder": "输入后按Enter加入"
+    },
+    "Sajet.Barcode.Pages.PO.DeliveryByPO.POLotVM": {
+        "PONO": "采购订单",
+        "POItem": "订单项次",
+        "PartNO": "料件编号",
+        "LotNO": "物料条码",
+        "DONO": "送货单",
+        "Qty": "包装容量",
+        "DateCode": "日期码",
+        "UpdateTime": "更新时间",
+        "VendorID": "供应商"
+    },
+    //  DeliveryByPO
+    //  ImportByPO
+    "Sajet.Barcode.Pages.PO.ImportByPO": {
+        "CollapseUploadFormText": "汇入作业",
+        "Qty": "包装容量",
+        "Msg_TakeNOAmoutLargeThanRemainingAmount": "取号数量超出剩余数量",
+        "Msg_InvalidPartNO": "料件编号错误"
+    },
+    "Sajet.Barcode.Pages.PO.ImportByPO.UploadFormVM": {
+        "FilePath": "档案路径",
+        "FilePath.Required": "请上传档案"
+    },
+    "Sajet.Barcode.Pages.PO.ImportByPO.ExcelDataVM": {
+        "ExcelNO": "Excel NO.",
+        "PONO": "采购订单",
+        "POItem": "订单项次",
+        "PartNO": "料件编号",
+        "LotNO": "物料条码",
+        "Qty": "包装容量",
+        "DateCode": "日期码",
+        "TotalQty": "总数量",
+        "TotalNO": "总件数",
+        "Message": "讯息"
+    },
+    //  ImportByPO
+    "Localization.Function": {
+        "CHANGEPASSWORD": "密码变更",
+        "USERS": "使用者",
+        "ROLE": "角色",
+        "PO": "订单取号",
+        "LABELBYPO": "取号作业",
+        "Authority Management": "权限管理",
+        "Barcode Center": "条码管理",
+        "Data Center": "基本资料",
+        "DELIVERYBYPO": "订单交货",
+        "IMPORTBYPO": "汇入作业",
+        "QUERYBYPO": "交货查询",
+        "QUERYORDER": "订单查询"
+    },
+    "Sajet.Barcode.Pages.PO.QueryByPO.POByQueryVM": {
+        "DO_NO": "送货单号",
+        "Status": "状态",
+        "RT_NO": "收货单号",
+        "PO_NO": "采购订单",
+        "PO_Item": "订单项次",
+        "Part_No": "料件编号",
+        "Qty": "数量",
+        "Spec": "料号描述",
+        "Description": "备注",
+        "UpdateTime": "更新时间"
+    },
+    "Sajet.Barcode.Pages.PO.QueryByPO.DetailVM": {
+        "Lot_NO": "物料条码",
+        "DateCode": "日期码",
+        "Qty": "数量",
+        "Enabled": "是否有效"
+    },
+    "Sajet.Barcode.Pages.PO.QueryByPO.POFormVM": {
+        "DO_NO": "送货单号",
+        "PO_NO": "采购订单",
+        "Part_No": "料件编号"
+
+    },
+    "Sajet.Barcode.Pages.PO.QueryByPO": {
+        "UpdateTime": "更新时间",
+        "StartUpdateTime": "更新时间(起)",
+        "EndUpdateTime": "更新时间(讫)",
+        "Lot_NO": "物料条码",
+        "DateCode": "日期码",
+        "Qty": "数量",
+        "Enabled": "是否有效"
+    },
+    "Sajet.Barcode.Pages.PO.QueryOrder.QueryOrderVM": {
+        "PO_NO": "采购订单",
+        "PO_Item": "订单项次",
+        "Part_No": "料件编号",
+        "Qty": "数量",
+        "Recive_Qty": "已取数量",
+        "Return_Qty": "退回数量",
+        "PO_DATE": "订单时间"
+    },
+    "Sajet.Barcode.Pages.PO.QueryOrder.QueryOrderDetailVM": {
+        "Lot_NO": "物料条码",
+        "DateCode": "日期码",
+        "Qty": "数量",
+        "Enabled": "是否有效"
+    },
+  "Sajet.Barcode.Pages.PO.QueryOrder.POFormVM": {
+    "PO_NO": "采购订单",
+    "Part_No": "料件编号",
+
+  },
+  "Sajet.Barcode.Pages.PO.QueryOrder": {
+    "UpdateTime": "更新时间",
+    "StartUpdateTime": "订单时间(起)",
+    "EndUpdateTime": "订单时间(讫)",
+    "Lot_NO": "物料条码",
+    "DateCode": "日期码",
+    "Qty": "数量",
+    "Enabled": "是否有效",
+    "EnabledLotNo": "是否启用"
+  }
+}

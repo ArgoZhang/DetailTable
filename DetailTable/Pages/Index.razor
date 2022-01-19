@@ -1,0 +1,38 @@
+﻿@page "/"
+
+<Table TItem="MasterVM"
+          IsStriped="true" IsBordered="true"
+          ShowToolbar="true" ShowRefresh="false"
+          IsPagination="true" PageItemsSource="BootstrapBlazorUtil.PageItemsSource"
+          ShowEditButton="false" ShowAddButton="false" ShowDeleteButton="false" OnQueryAsync="@OnQueryAsync">
+    <TableColumns>
+        <TableColumn @bind-Field="@context.PO_NO"
+                     Filterable="false" Sortable="false" />
+        <TableColumn @bind-Field="@context.PO_Item"
+                     Filterable="false" Sortable="false" />
+        <TableColumn @bind-Field="@context.Part_No"
+                     Filterable="false" Sortable="false" />
+        <TableColumn @bind-Field="@context.Qty"
+                     Filterable="false" Sortable="false" />
+        <TableColumn @bind-Field="@context.Recive_Qty"
+                     Filterable="false" Sortable="false" />
+        <TableColumn @bind-Field="@context.Return_Qty"
+                     Filterable="false" Sortable="false" />
+        <TableColumn @bind-Field="@context.PO_DATE"
+                     Filterable="false" Sortable="false"/>
+    </TableColumns>
+    <DetailRowTemplate>
+        @{ 
+            searchVM.PO_Item = context.PO_Item;
+            searchVM.PO_NO = context.PO_NO;
+        }
+        <Table TItem="DetailVM" IsBordered="true" ShowToolbar="false" IsPagination="true" OnQueryAsync="DetailQueryAsync" PageItemsSource="BootstrapBlazorUtil.PageItemsSource">
+            <TableColumns Context="Detail">
+                <TableColumn @bind-Field="@Detail.LotNo" />
+                <TableColumn @bind-Field="@Detail.DateCode" />
+                <TableColumn @bind-Field="@Detail.Enabled" />
+            </TableColumns>
+        </Table>
+    </DetailRowTemplate>
+</Table>
+

@@ -1,0 +1,1174 @@
+﻿{
+    "BootstrapBlazor.Components.AutoComplete": {
+        "NoDataTip": "無匹配資料",
+        "PlaceHolder": "請輸入"
+    },
+    "BootstrapBlazor.Components.BarcodeReader": {
+        "ButtonScanText": "掃描",
+        "ButtonStopText": "關閉",
+        "AutoStopText": "自動關閉",
+        "DeviceLabel": "攝像頭",
+        "InitDevicesString": "正在識別攝像頭",
+        "NotFoundDevicesString": "未找到視訊相關設備"
+    },
+    "BootstrapBlazor.Components.Captcha": {
+        "HeaderText": "請完成安全驗證",
+        "BarText": "向右滑動填充拼圖",
+        "FailedText": "載入失敗",
+        "LoadText": "正在載入 ...",
+        "TryText": "再試一次"
+    },
+    "BootstrapBlazor.Components.Camera": {
+        "DeviceLabel": "攝像頭",
+        "InitDevicesString": "正在識別攝像頭",
+        "PlayText": "開啟",
+        "StopText": "關閉",
+        "PhotoText": "拍照",
+        "FrontText": "前置",
+        "BackText": "後置",
+        "NotFoundDevicesString": "未找到視訊相關設備"
+    },
+    "BootstrapBlazor.Components.Calendar": {
+        "PreviousMonth": "上一月",
+        "Today": "今天",
+        "NextMonth": "下一月",
+        "PreviousWeek": "上一週",
+        "WeekText": "本週",
+        "NextWeek": "下一週",
+        "WeekHeaderText": "週",
+        "WeekLists": "日,一,二,三,四,五,六",
+        "WeekNumberText": "第 {0} 週",
+        "Months": "1,2,3,4,5,6,7,8,9,10,11,12",
+        "Title": "{0} 年 {1} 月"
+    },
+    "BootstrapBlazor.Components.Console": {
+        "HeaderText": "系統監控",
+        "LightTitle": "通訊指示燈",
+        "ClearButtonText": "清屏",
+        "AutoScrollText": "自動滾屏"
+    },
+    "BootstrapBlazor.Components.DateTimePicker": {
+        "DatePlaceHolder": "選擇日期",
+        "TimePlaceHolder": "選擇時間",
+        "DateTimePlaceHolderText": "請選擇日期時間",
+        "DatePlaceHolderText": "請選擇日期",
+        "TimeFormat": "hh\\:mm\\:ss",
+        "DateFormat": "yyyy-MM-dd",
+        "DateTimeFormat": "yyyy-MM-dd HH\\:mm\\:ss",
+        "AiraPrevYearLabel": "前一年",
+        "AiraNextYearLabel": "後一年",
+        "AiraPrevMonthLabel": "上一月",
+        "AiraNextMonthLabel": "下一月",
+        "ClearButtonText": "清空",
+        "NowButtonText": "此刻",
+        "ConfirmButtonText": "確定",
+        "CancelButtonText": "取消",
+        "YearText": "{0} 年",
+        "MonthText": "{0} 月",
+        "YearPeriodText": "{0} 年 - {1} 年",
+        "Months": "1,2,3,4,5,6,7,8,9,10,11,12",
+        "MonthLists": "一月,二月,三月,四月,五月,六月,七月,八月,九月,十月,十一月,十二月",
+        "WeekLists": "日,一,二,三,四,五,六",
+        "GenericTypeErroMessage": "DateTimePicker 組件僅支援綁定泛型為 DateTime 或者 DateTime?",
+        "Today": "今天",
+        "Yesterday": "昨天",
+        "Weekago": "一週前"
+    },
+    "BootstrapBlazor.Components.DateTimeRange": {
+        "SeparateText": "至",
+        "StartPlaceHolderText": "開始日期",
+        "EndPlaceHolderText": "結束日期",
+        "ClearButtonText": "清空",
+        "ConfirmButtonText": "確定",
+        "DateFormat": "yyyy-MM-dd",
+        "Last7Days": "最近 7 天",
+        "Last30Days": "最近 30 天",
+        "ThisMonth": "這個月",
+        "LastMonth": "上個月"
+    },
+    "BootstrapBlazor.Components.ResultDialogOption": {
+        "ButtonYesText": "確認",
+        "ButtonNoText": "取消",
+        "ButtonCloseText": "關閉"
+    },
+    "BootstrapBlazor.Components.DropdownList": {
+        "PlaceHolder": "請選擇 ..."
+    },
+    "BootstrapBlazor.Components.Editor": {
+        "PlaceHolder": "點擊後編輯"
+    },
+    "BootstrapBlazor.Components.EditorForm": {
+        "ModelInvalidOperationExceptionMessage": "驗證表單與 {0} 綁定模型不一致",
+        "PlaceHolderText": "請輸入 ..."
+    },
+    "BootstrapBlazor.Components.EqualToValidator": {
+        "ErrorMessage": "你的輸入不相同"
+    },
+    "BootstrapBlazor.Components.GoTop": {
+        "TooltipText": "返回頂端"
+    },
+    "BootstrapBlazor.Components.Layout": {
+        "TooltipText": "點擊展開收縮左側菜單"
+    },
+    "BootstrapBlazor.Components.MultiSelect": {
+        "PlaceHolder": "點擊進行多選 ...",
+        "SelectAllText": "全選",
+        "ReverseSelectText": "反選",
+        "ClearText": "清除"
+    },
+    "BootstrapBlazor.Components.Pagination": {
+        "AiraPageLabel": "分頁組件",
+        "AiraPrevPageText": "上一頁",
+        "AiraFirstPageText": "第一頁",
+        "AiraNextPageText": "下一頁",
+        "PageInfoText": "顯示第 {0} 到第 {1} 條記錄",
+        "TotalInfoText": "，總共 {0} 條記錄",
+        "PrePageInfoText": "每頁顯示",
+        "RowInfoText": "條記錄",
+        "LabelString": "第 {0} 頁",
+        "SelectItemsText": "{0}"
+    },
+    "BootstrapBlazor.Components.PopConfirmButton": {
+        "CloseButtonText": "關閉",
+        "ConfirmButtonText": "確定",
+        "Content": "確認刪除嗎？"
+    },
+    "BootstrapBlazor.Components.QRCode": {
+        "PlaceHolder": "請輸入內容",
+        "ClearButtonText": "清除",
+        "GenerateButtonText": "生成"
+    },
+    "BootstrapBlazor.Components.RequiredValidator": {
+        "ErrorMessage": "這是必填欄位"
+    },
+    "BootstrapBlazor.Components.Search": {
+        "SearchButtonText": "搜索"
+    },
+    "BootstrapBlazor.Components.Select": {
+        "PlaceHolder": "請選擇 ..."
+    },
+    "BootstrapBlazor.Components.StringLengthValidator": {
+        "ErrorMessage": "最多可以輸入 {{0}} 個字元"
+    },
+    "BootstrapBlazor.Components.SweetAlert": {
+        "CloseButtonText": "關閉",
+        "CancelButtonText": "取消",
+        "ConfirmButtonText": "確認"
+    },
+    "BootstrapBlazor.Components.Switch": {
+        "OnInnerText": "開",
+        "OffInnerText": "關"
+    },
+    "BootstrapBlazor.Components.Tab": {
+        "CloseCurrentTabText": "關閉當前標籤",
+        "CloseOtherTabsText": "關閉其他標籤",
+        "CloseAllTabsText": "關閉所有標籤"
+    },
+    "BootstrapBlazor.Components.Table": {
+        "AddButtonText": "新增",
+        "EditButtonText": "編輯",
+        "DeleteButtonText": "刪除",
+        "SaveButtonText": "儲存",
+        "CancelDeleteButtonText": "取消",
+        "ConfirmDeleteButtonText": "刪除",
+        "ConfirmDeleteContentText": "確認要刪除選中的所有資料項嗎？",
+        "RefreshButtonText": "刷新",
+        "ColumnButtonTitleText": "列顯示隱藏控制",
+        "ColumnButtonText": "列",
+        "ExportButtonText": "匯出數據",
+        "SearchPlaceholderText": "搜索",
+        "SearchButtonText": "搜索",
+        "ResetButtonText": "清空過濾",
+        "AdvanceButtonText": "高級搜索",
+        "CheckboxDisplayText": "選擇",
+        "EditModalTitle": "編輯資料視窗",
+        "AddModalTitle": "新增資料視窗",
+        "ColumnButtonTemplateHeaderText": "操作",
+        "SearchTooltip": "<div class='search-input-tooltip'>輸入任意字串全域搜索</br><kbd>Enter</kbd> 搜索 <kbd>ESC</kbd> 清除搜索</div>",
+        "SearchModalTitle": "搜索條件",
+        "AddButtonToastTitle": "新增數據",
+        "AddButtonToastContent": "未提供儲存資料方法，無法新增資料",
+        "EditButtonToastTitle": "編輯資料",
+        "EditButtonToastNotSelectContent": "請選擇要編輯的資料",
+        "EditButtonToastMoreSelectContent": "只能選擇一項要編輯的資料",
+        "EditButtonToastNoSaveMethodContent": "未提供儲存資料方法，無法編輯資料",
+        "SaveButtonToastTitle": "儲存資料",
+        "SaveButtonToastContent": "未提供儲存資料方法，無法儲存資料",
+        "SaveButtonToastResultContent": "儲存資料{0}, {1} 秒後自動關閉",
+        "SuccessText": "成功",
+        "FailText": "失敗",
+        "DeleteButtonToastTitle": "刪除資料",
+        "DeleteButtonToastContent": "請選擇要刪除的資料, {0} 秒後自動關閉",
+        "DeleteButtonToastResultContent": "刪除資料{0}, {1} 秒後自動關閉",
+        "DataServiceInvalidOperationText": "未註冊 'BootstrapBlazor.Components.IDataService`1[{0}]' 服務"
+    },
+    "BootstrapBlazor.Components.EditDialog": {
+        "CloseButtonText": "關閉",
+        "SaveButtonText": "儲存"
+    },
+    "BootstrapBlazor.Components.TableFilter": {
+        "Title": "過濾",
+        "ClearButtonText": "重置",
+        "FilterButtonText": "確認",
+        "BoolFilter.AllText": "全部",
+        "BoolFilter.TrueText": "選中",
+        "BoolFilter.FalseText": "未選中",
+        "GreaterThanOrEqual": "大於等於",
+        "LessThanOrEqual": "小於等於",
+        "GreaterThan": "大於",
+        "LessThan": "小於",
+        "Equal": "等於",
+        "NotEqual": "不等於",
+        "Contains": "包含",
+        "NotContains": "不包含",
+        "EnumFilter.AllText": "全選"
+    },
+    "BootstrapBlazor.Components.SearchDialog": {
+        "ResetButtonText": "重置",
+        "QueryButtonText": "查詢"
+    },
+    "BootstrapBlazor.Components.Timer": {
+        "PauseText": "暫停",
+        "ResumeText": "繼續",
+        "CancelText": "取消",
+        "StarText": "開始計時"
+    },
+    "BootstrapBlazor.Components.Toggle": {
+        "OnText": "展開",
+        "OffText": "收縮"
+    },
+    "BootstrapBlazor.Components.Transfer": {
+        "LeftPanelText": "列表 1",
+        "RightPanelText": "列表 2"
+    },
+    "BootstrapBlazor.Components.Upload": {
+        "DeleteButtonText": "刪除",
+        "BrowserButtonText": "流覽",
+        "FileExtensions": "副檔名須為以下幾種格式: {0}",
+        "FileSizeValidation": "檔案大小限為 {0}"
+    },
+    "Localization.Text": {
+        "Hello": "你好世界！",
+        "Freezing": "凍結",
+        "Language": "語言",
+        "Yes": "是",
+        "No": "否",
+        "SuccessButSomeFailed": "刪除成功但是有幾筆資料刪除失敗",
+        "Func_Create": "新增",
+        "Func_BatchCreate": "批次編輯",
+        "Func_Edit": "編輯",
+        "Func_Delete": "刪除",
+        "Func_Save": "儲存",
+        "Func_Cancel": "取消",
+        "Func_Close": "關閉",
+        "Func_Search": "搜尋",
+        "Func_Clear": "清除",
+        "Func_Select": "選擇",
+        "Func_Refresh": "刷新",
+        "Func_TakeNo": "取號",
+        "Func_PrintLabel": "列印標籤",
+        "Func_Update": "更新",
+        "Func_Upload": "上傳",
+        "Func_DownloadTemplate": "下載範本",
+        "Msg_SelectWith": "請選擇{0}",
+        "Msg_NoSelectedItem": "未選擇資料",
+        "Msg_SelectWithBefore": "請先選擇{0}",
+        "Msg_DistributionUserItem": "選擇使用者",
+        "Msg_DistributionFunctionItem": "選擇權限",
+        "Msg_ForeignKeyFault": "此{0}資料已有其他資料表參照，因此無法刪除",
+        "Msg_PositiveInteger": "必須為正整數",
+        "Msg_PositiveDouble": "不可為負數或0",
+        "Msg_TemplateNotFound": "無法找到範本，請通知管理員",
+        "Msg_IsExist": "{0}已存在",
+        "Msg_IsNotExist": "{0}不存在",
+        "Msg_ConfirmDelete": "確定要刪除{0}嗎？",
+        "Msg_Empty": "{0}不可為空",
+        "Msg_ReadError": "讀取錯誤",
+        "Msg_Error": "{0}錯誤",
+        "Msg_StartDateEndDate": "開始日期不可大於結束日期",
+        "Text_Success": "成功",
+        "Text_Failed": "失敗",
+        "Text_TableFuncToastTitle": "{0}資料",
+        "Text_TableFuncToastNotSelectContent": "請選擇要{0}的資料",
+        "Text_TableFuncToastMoreSelectContent": "只能選擇一項要{0}的資料",
+        "Text_TableFuncToastResultContent": "{0}資料{1}",
+        "Text_TableConfirmContentText": "確認要{0}選中的所有資料項嗎？",
+        "Text_Project": "專案",
+        "Text_All": "所有",
+        "Text_SearchBlock": "搜尋區塊",
+        "Text_Machine": "設備",
+        "Text_DutModel": "待測物型號",
+        "Text_Function": "權限",
+        "Text_Location": "位置",
+        "Text_MachineGroup": "設備群組",
+        "Text_MachineStatus": "設備機況",
+        "Text_ProjectMember": "專案成員",
+        "Text_Role": "角色",
+        "Text_TestPlan": "測試計畫",
+        "Text_User": "使用者",
+        "Text_Supplier": "供應商",
+        "Text_Vendor": "供應商",
+        "Text_WorkOrder": "工單",
+        "Text_PO": "採購訂單",
+        "Text_PONO": "採購訂單",
+        "Text_POItem": "訂單項次",
+        "Text_POLot": "物料條碼",
+        "Text_PartNO": "料件編號",
+        "Text_DO": "送貨單",
+        "PROJECT": "專案",
+        "MODEL": "待測物型號",
+        "MACHINEGROUP": "設備群組",
+        "MACHINE": "設備/群組",
+        "MACHINESTATUSCHANGE": "設備機況記錄",
+        "PROJECTMEMBERMAINTAIN": "專案成員",
+        "LOCATION": "位置",
+        "WORKORDER": "工單",
+        "BOOKING": "預約排程",
+        "BOOKINGADJUST": "排程順序",
+        "WORKSTATION": "設備",
+        "TESTPLANMAINTAINENCE": "測試計畫",
+        "MACHINESTATUS": "設備監控",
+        "CHANNELSTATUS": "通道現況",
+        "Report Query": "報表查詢",
+        "MACHINEUTE": "稼動率",
+        "CHANNELUTE": "通道稼動率",
+        "SAMPLINGRECORD": "取樣紀錄",
+        "STEPRECORD": "工步統計",
+        "System Management": "系統管理",
+        "CALENDARTIME": "行事曆",
+        "USERS": "使用者",
+        "ROLE": "角色",
+        "CHANGEPASSWORD": "密碼變更"
+    },
+    //Machine
+    "Sajet.Barcode.Pages.BasicInformation.Machines.MachineVM": {
+        "Machine": "設備編號",
+        "Channel": "通道數",
+        "Chamber": "溫箱編號",
+        "MachineGroup": "設備群組",
+        "UpdateTime": "更新時間",
+        "UpdateUser": "使用者",
+        "Enabled": "可使用",
+        "Location": "位置",
+        "Machine.Required": "請輸入 {0}",
+        "Channel.Required": "請輸入 {0}",
+        "MachineGroup.Required": "請輸入 {0}"
+    },
+    "Sajet.Barcode.Pages.BasicInformation.Machines.MachineGroupVM": {
+        "MachineGroup": "設備群組",
+        "MachineGroupDescription": "描述",
+        "MachineModel": "設備型號",
+        "Supplier": "供應商",
+        "UpdateTime": "更新時間",
+        "UpdateUser": "使用者",
+        "Enabled": "可使用",
+        "EditorName": "編輯工作站",
+        "MachineGroup.Required": "請輸入 {0}"
+    },
+    "Sajet.Barcode.Pages.BasicInformation.Machines": {
+        "MachineData": "設備",
+        "MachineGroup": "設備群組",
+        "MachineGroupDescription": "描述",
+        "MachineModel": "設備型號",
+        "Supplier": "供應商",
+        "UpdateTime": "更新時間",
+        "UpdateUser": "使用者",
+        "Enabled": "可使用",
+        "EditorName": "編輯工作站",
+        "Close": "關閉",
+        "SetChannel": "設定通道",
+        "ForeignKeyFault": "此設備資料已有其他資料表參照，因此無法刪除",
+        "MachineIsDuplicated": "設備資料重複",
+        "MachineGroupIsDuplicated": "設備群組資料重複"
+    },
+    ///
+    "Sajet.Barcode.Data.SYS_USER": {
+        "USER_ID": "帳號",
+        "USER_NAME": "使用者名稱",
+        "PASSWD": "密碼",
+        "EXPIRED_DATE": "有效日期",
+        "EMAIL": "郵件地址",
+        "CROSS_PROJECT": "跨專案",
+        "UPDATE_USER": "更新者",
+        "UPDATE_TIME": "更新時間",
+        "ENABLED": "可使用"
+    },
+    "Sajet.Server.Shared.MainLayout": {
+        "Welcome": "歡迎",
+        "Login": "登入",
+        "Logout": "登出",
+        "Basic Information": "基本資料",
+        "PROJECT": "專案",
+        "MODEL": "待測物型號",
+        "MACHINEGROUP": "設備群組",
+        "MACHINE": "設備/群組",
+        "MACHINESTATUSCHANGE": "設備機況記錄",
+        "PROJECTMEMBERMAINTAIN": "專案成員",
+        "LOCATION": "位置",
+        "Task Management": "任務管理",
+        "WORKORDER": "工單",
+        "BOOKING": "預約排程",
+        "BOOKINGADJUST": "排程順序",
+        "WORKSTATION": "設備",
+        "TESTPLANMAINTAINENCE": "測試計畫",
+        "Real-time Monitoring": "即時監控",
+        "MACHINESTATUS": "設備監控",
+        "CHANNELSTATUS": "通道現況",
+        "Report Query": "報表查詢",
+        "MACHINEUTE": "稼動率",
+        "CHANNELUTE": "通道稼動率",
+        "SAMPLINGRECORD": "取樣紀錄",
+        "STEPRECORD": "工步統計",
+        "System Management": "系統管理",
+        "CALENDARTIME": "行事曆",
+        "Barcode": "雲端條碼列印平台",
+        "Change Password": "密碼變更"
+    },
+    "Sajet.Server.Pages.Login": {
+        "Login": "登入",
+        "Enter ...": "請輸入 ...",
+        "Submit": "登入",
+        "Loading": "載入中",
+        "Login failed": "登入失敗",
+        "Please confirm User No or Password.": "請重新確認帳號或密碼",
+        "Authorization failed.": "授權失敗",
+        "Barcode": "雲端條碼列印平台"
+    },
+    "Sajet.Data.UserInfo": {
+        "UserId": "帳號",
+        "UserId.Required": "請輸入 {0}",
+        "Password": "密碼",
+        "Password.Required": "請輸入 {0}"
+    },
+    //  CalendarMaintain
+    "Sajet.Barcode.Pages.SystemManagement.CalendarMaintain": {
+        "Msg_WorkDate_Exist": "日期已存在",
+        "Msg_EditDefault": "預設資料無法編輯",
+        "Msg_DeleteDefault": "預設資料無法刪除",
+        "Msg_DateTimeRange_Invalid": "起訖日期選擇錯誤",
+        "Msg_IncludeDayOfWeek_Required": "請選擇至少一項週次",
+        "Text_TotalTime": "工時設定"
+    },
+    "Sajet.Barcode.Pages.SystemManagement.CalendarMaintain.CalendarTimeVM": {
+        "WorkDate": "日期",
+        "TotalTime": "工時(小時)",
+        "WorkDate.Required": "請輸入 {0}",
+        "TotalTime.Required": "請輸入 {0}",
+        "TotalTime.Range": "{0}須在{1}和{2}區間內"
+    },
+    "Sajet.Barcode.Pages.SystemManagement.CalendarMaintain.BatchCreateVM": {
+        "DateTimeRange": "起訖日期",
+        "TotalTime": "工時(小時)",
+        "IncludeDayOfWeek": "包含週次",
+        "TotalTime.Required": "請輸入 {0}",
+        "TotalTime.Range": "{0}須在{1}和{2}區間內"
+    },
+    //  CalendarMaintain
+    // DUTModel
+    "Sajet.Barcode.Pages.BasicInformation.DUTModel.ModelVM": {
+        "DUTModelID": "編號",
+        "Project": "專案",
+        "DUTModel": "待測物型號",
+        "DUTModelVersion": "版本",
+        "DUTModelDescription": "描述",
+        "UpdateTime": "更新時間",
+        "UpdateUser": "使用者",
+        "DUTModelID.Required": "請輸入 {0}",
+        "Project.Required": "請輸入 {0}",
+        "DUTModel.Required": "請輸入 {0}"
+    },
+    "Sajet.Barcode.Pages.BasicInformation.DUTModel": {
+        "CloseText": "關閉",
+        "ModelDuplicate": "待測物型號資料重複"
+    },
+    //MachineStatus
+    "Sajet.Barcode.Pages.BasicInformation.MachineStatusChange.MachineStatusChangeVM": {
+        "Machine": "設備編號",
+        "StartTime": "開始時間",
+        "EndTime": "結束時間",
+        "Status": "狀態代碼",
+        "StatusType": "狀態類型",
+        "Description": "備註",
+        "UpdateUser": "使用者",
+        "UpdateTime": "更新時間",
+        "StatusName": "狀態",
+        "StartDateEndDate": "開始時間須小於結束時間",
+        "Machine.Required": "請輸入 {0}",
+        "StartTime.Required": "請輸入 {0}",
+        "EndTime.Required": "請輸入 {0}",
+        "Status.Required": "請輸入 {0}",
+        "StatusType.Required": "請輸入 {0}",
+        "StatusName.Required": "請輸入 {0}"
+    },
+    "Sajet.Barcode.Pages.BasicInformation.MachineStatusChange": {
+        "Close": "關閉",
+        "StartDateEndDate": "開始時間須小於結束時間",
+        "StartDateEqualsEndDate": "開始時間不能等於結束時間",
+        "OverlapTime": "時間範圍重疊",
+        "DuplicateStartTime": "開始時間重複",
+        "StandByOrProductiveCannotBeDeleted": "狀態類型為STANDBY或PRODUCTIVE的資料皆不可刪除",
+        "TestingStartTime": "因為此設備的狀態為'測試中'，故開始時間不可大於此設備的開始時間",
+        "CrossDay": "開始時間與結束時間不可跨日"
+    },
+    ///
+    //Project
+    "Sajet.Barcode.Pages.BasicInformation.Project.ProjectVM": {
+        "Project": "專案名稱",
+        "Owner": "管理者",
+        "ProjectDescription": "描述",
+        "UpdateTime": "更新時間",
+        "UpdateUser": "使用者",
+        "Enabled": "可使用",
+        "UserName": "專案成員",
+        "OwnerName": "管理者",
+        "Project.Required": "請輸入 {0}",
+        "Owner.Required": "請輸入 {0}",
+        "OwnerName.Required": "請輸入 {0}"
+    },
+    "Sajet.Barcode.Pages.BasicInformation.Project": {
+        "ForeignKeyFault": "此專案資料已有其他資料表參照，因此無法刪除",
+        "Msg_Project_Duplicate": "專案資料重複"
+    },
+    ///
+    //ProjectMemberMaintain
+    "Sajet.Barcode.Pages.BasicInformation.ProjectMemberMaintain.ProjectMemberMaintainVM": {
+        "Project": "專案名稱",
+        "Owner": "管理者",
+        "ProjectDescription": "描述",
+        "UpdateTime": "更新時間",
+        "UpdateUser": "使用者",
+        "Enabled": "可使用",
+        "UserId": "專案成員",
+        "UserName": "專案成員",
+        "OwnerName": "管理者",
+        "Project.Required": "請輸入 {0}",
+        "Owner.Required": "請輸入 {0}",
+        "OwnerName.Required": "請輸入 {0}"
+    },
+    "Sajet.Barcode.Pages.BasicInformation.ProjectMemberMaintain": {
+        "ForeignKeyFault": "此專案資料已有其他資料表參照，因此無法刪除",
+        "Msg_Project_Duplicate": "專案資料重複"
+    },
+    ///
+    //Role
+    "Sajet.Barcode.Pages.SystemManagement.RoleManagement.RoleVM": {
+        "RoleId": "角色",
+        "RoleDescription": "描述",
+        "UpdateTime": "更新時間",
+        "UpdateUser": "使用者",
+        "RoleFunctionNames": "角色權限",
+        "Enabled": "可使用"
+    },
+    "Sajet.Barcode.Pages.SystemManagement.RoleManagement": {
+        "Msg_Role_Duplicate": "角色資料重複",
+        "DistributeUser": "選擇使用者",
+        "DistributeFunction": "選擇權限",
+        "ForeignKeyFault": "此角色資料已有其他資料表參照，因此無法刪除"
+    },
+    ///
+    ///
+    //  Enum
+    "Sajet.Barcode.Common.WoStatus": {
+        "Prepare": "準備",
+        "Ready": "資料預備",
+        "Booked": "已預約",
+        "TestAndAnalyze": "測試分析",
+        "TestComplete": "測試完成",
+        "Complete": "工單完成",
+        "AbnormalEnd": "異常終止"
+    },
+    "Sajet.Barcode.Common.LogStatus": {
+        "Create": "新增",
+        "Edit": "編輯",
+        "Delete": "刪除",
+        "Execute": "執行"
+    },
+    "Sajet.Barcode.Common.BookingStatus": {
+        "Booked": "預約中",
+        "Workable": "可使用",
+        "Testing": "測試中"
+    },
+    "Sajet.Barcode.Common.DateTimeRangeMode": {
+        "Day": "日期",
+        "Month": "月份"
+    },
+    "Sajet.Barcode.Common.DOSTatus": {
+        "Initial": "初始",
+        "Receiven": "已收貨",
+        "Return": "退貨"
+    },
+    //  Enum
+    //  Selector
+    "Sajet.Barcode.Pages.Components.ProjectSelectorVM": {
+        "Project": "專案名稱",
+        "Owner": "管理者",
+        "ProjectDesc": "描述"
+    },
+    "Sajet.Barcode.Pages.Components.TestPlanSelectorVM": {
+        "TestPlanId": "編號",
+        "Project": "專案",
+        "DutModel": "待測物型號",
+        "DutModelVer": "版本",
+        "MachineGroup": "設備群組",
+        "TestPlan": "測試計畫",
+        "TestPlanDesc": "描述"
+    },
+    "Sajet.Barcode.Pages.Components.UserSelectorVM": {
+        "UserId": "帳號",
+        "UserName": "使用者名稱"
+    },
+    "Sajet.Barcode.Pages.Components.SupplierSelectorVM": {
+        "Supplier": "供應商",
+        "SupplierDesc": "描述"
+    },
+    "Sajet.Barcode.Pages.Components.LocationSelectorVM": {
+        "Location": "位置"
+    },
+    "Sajet.Barcode.Pages.Components.MachineGroupSelectorVM": {
+        "MachineGroup": "設備群組",
+        "MachineGroupDesc": "描述",
+        "MachineModel": "設備型號",
+        "Supplier": "供應商"
+    },
+    "Sajet.Barcode.Pages.Components.WorkOrderSelectorVM": {
+        "WoNo": "工單編號",
+        "Status": "狀態",
+        "Project": "專案",
+        "DutModel": "待測物型號",
+        "DutModelVer": "版本",
+        "MachineGroup": "設備群組",
+        "TestPlan": "測試計畫",
+        "TestPlanTime": "計畫預估時間"
+    },
+    "Sajet.Barcode.Pages.Components.DutModelSelectorVM": {
+        "Project": "專案",
+        "DutModel": "待測物型號",
+        "DutModelVer": "版本",
+        "DutModelDesc": "描述"
+    },
+    "Sajet.Barcode.Pages.Components.SnEditor": {
+        "Title": "輸入序號",
+        "Msg_Sn_Empty": "請輸入序號",
+        "Msg_Sn_Duplicate": "序號已存在",
+        "Text_Qty": "測試數量",
+        "Text_QtyNow": "當前數量"
+    },
+    "Sajet.Barcode.Pages.Components.SnEditor.SnEditorVM": {
+        "Sn": "序號"
+    },
+    "Sajet.Barcode.Pages.Components.ProjectMemberSelectorVM": {
+        "UserId": "帳號",
+        "UserName": "使用者名稱",
+        "RoleName": "角色"
+    },
+    "Sajet.Barcode.Pages.Components.MachineStatusSelectorVM": {
+        "Status": "狀態代碼",
+        "StatusName": "狀態",
+        "StatusColor": "狀態顏色",
+        "FontColor": "字體顏色",
+        "StatusType": "狀態類型"
+    },
+    "Sajet.Barcode.Pages.Components.MachineSelectorVM": {
+        "Machine": "設備編號",
+        "Channel": "通道數",
+        "MachineGroup": "設備群組",
+        "Location": "位置"
+    },
+    "Sajet.Barcode.Pages.Components.RoleSelectorVM": {
+        "RoleId": "角色",
+        "RoleDesc": "描述"
+    },
+    "Sajet.Barcode.Pages.Components.VendorSelectorVM": {
+        "VendorId": "代碼",
+        "VendorName": "名稱",
+        "VendorDesc": "描述"
+    },
+    "Sajet.Barcode.Pages.Components.FunctionSelectorVM": {
+        "LocalizedModule": "模組",
+        "LocalizedFunctionName": "功能權限"
+    },
+    "Sajet.Barcode.Pages.Components.ProjectOwnerSelectorVM": {
+        "UserId": "帳號",
+        "UserName": "使用者名稱",
+        "RoleName": "角色"
+    },
+    "Sajet.Barcode.Pages.Components.WorkOrderProjectMemberSelectorVM": {
+        "UserId": "帳號",
+        "UserName": "使用者名稱"
+    },
+    //  Selector
+    //  WorkOrder
+    "Sajet.Barcode.Pages.TaskManagement.WorkOrder": {
+        "WorkOrderInfomation": "工單訊息",
+        "WorkOrderHistory": "歷史記錄",
+        "Func_CompleteWorkOrder": "工單完成",
+        "Func_AbnormalEndWorkOrder": "異常終止",
+        "Msg_WoNo_Duplicate": "工單資料重複",
+        "Msg_CheckSNList_Check": "序號清單數量須與「測試數量」相符",
+        "Msg_CompleteWorkOrder_Check": "僅狀態為「測試完成」的工單，方可進行此操作",
+        "Msg_Edit_Check": "僅狀態為「準備」或「資料預備」的工單，方可進行此操作",
+        "Msg_AbnormalEndWorkOrder_Check": "狀態為「準備」或「資料預備」或「測試完成」的工單，方可進行此操作"
+    },
+    "Sajet.Barcode.Pages.TaskManagement.WorkOrder.WorkOrderVM": {
+        "WoNo": "工單編號",
+        "Status": "狀態",
+        "Project": "專案",
+        "DutModel": "待測物型號",
+        "DutModelVer": "版本",
+        "MachineGroup": "設備群組",
+        "EngineerName": "工程師",
+        "Qty": "測試數量",
+        "TestPlan": "測試計畫",
+        "TestPlanTime": "計畫預估時間",
+        "MailGroupName": "郵件群組",
+        "DueDate": "預計完成時間",
+        "CheckSN": "序號檢查",
+        "CheckSNList": "序號清單",
+        "CreateTime": "建立時間",
+        "CreateUser": "建立者",
+        "CloseTime": "完成時間",
+        "CloseUser": "完成者",
+        "InputQty": "投入數量",
+        "OutputQty": "完工數量",
+        "UpdateTime": "更新時間",
+        "UpdateUserName": "使用者",
+        "Remark": "備註",
+        "TestPlanName": "測試計畫",
+        //  Data Annotation
+        "WoNo.Required": "請輸入 {0}",
+        "DueDate.Required": "請輸入 {0}",
+        "Project.Required": "請輸入 {0}",
+        "DutModel.Required": "請輸入 {0}"
+        //  Data Annotation*
+    },
+    "Sajet.Barcode.Pages.TaskManagement.WorkOrder.WorkOrderHTVM": {
+        "WoNo": "工單編號",
+        "Status": "狀態",
+        "Project": "專案",
+        "DutModel": "待測物型號",
+        "DutModelVer": "版本",
+        "MachineGroup": "設備群組",
+        "EngineerName": "工程師",
+        "Qty": "測試數量",
+        "TestPlan": "測試計畫",
+        "TestPlanTime": "計畫預估時間",
+        "MailGroupName": "郵件群組",
+        "DueDate": "預計完成時間",
+        "CheckSN": "序號檢查",
+        "CheckSNList": "序號清單",
+        "UpdateTime": "更新時間",
+        "UpdateUserName": "使用者",
+        "Remark": "備註",
+        "TestPlanName": "測試計畫",
+        "LogStatus": "異動狀態"
+    },
+    //  WorkOrder
+    //  TestPlanMaintainence
+    "Sajet.Barcode.Pages.TaskManagement.TestPlanMaintainence": {
+        "Msg_TestPlan_Duplicate": "測試計畫已存在",
+        "Text_TestPlan": "測試計畫"
+    },
+    "Sajet.Barcode.Pages.TaskManagement.TestPlanMaintainence.TestPlanVM": {
+        "Project": "專案",
+        "DutModel": "待測物型號",
+        "DutModelVer": "版本",
+        "TestPlan": "測試計畫",
+        "TestPlanDesc": "描述",
+        "FileName": "檔案名稱",
+        "HostName": "編輯工作站",
+        "IPAddress": "IP位址",
+        "UpdateUserName": "使用者",
+        "UpdateTime": "更新時間",
+        "MachineGroup": "設備群組",
+        "Enabled": "可使用",
+        "Project.Required": "請輸入 {0}",
+        "DutModel.Required": "請輸入 {0}",
+        "MachineGroup.Required": "請輸入 {0}",
+        "TestPlan.Required": "請輸入 {0}",
+        "FileName.Required": "請輸入 {0}",
+        "HostName.Required": "請輸入 {0}",
+        "IPAddress.Required": "請輸入 {0}",
+        "Enabled.Required": "請輸入 {0}"
+    },
+    //  TestPlanMaintainence
+    //  Booking
+    "Sajet.Barcode.Pages.TaskManagement.Booking": {
+        "Text_MachineBoard": "設備現況",
+        "Text_BookingInfomation": "設備預約",
+        "Text_BookingLog": "歷史記錄",
+        "Func_ToDetail": "預約",
+        "Func_ToDetailAdjust": "調整",
+        "Func_ChangePriority": "變更順序",
+        "Func_Unbatch": "拆批",
+        "Func_PriorityUp": "往上移一位",
+        "Func_PriorityDown": "往下移一位",
+        "Msg_BookingInfomation_Selected": "請先選取設備",
+        "Msg_ChangePriority_OverMax": "預約順序超過當前最大順序",
+        "Msg_ChangePriority_NotModify": "預約順序無修改",
+        "Msg_ChangePriority_CannotBeWorkable": "超過實際可使用數，無法修改預約順序為0",
+        "Msg_Priority_NotNonNegInteger": "預約順序須為非負整數",
+        "Msg_Qty_NotPositiveInteger": "預約數量須為正整數",
+        "Msg_Qty_OverChannel": "預約數量超過通道數",
+        "Msg_Qty_OnlyLessThan": "預約數量只能下調",
+        "Msg_UnBatch_OnlyLessThan": "拆批數量須小於原數量"
+    },
+    "Sajet.Barcode.Pages.TaskManagement.Booking.ChamberBoardVM": {
+        "Machine": "設備編號",
+        "Chamber": "溫箱編號",
+        "Channel": "通道數",
+        "FailureQty": "故障數",
+        "BookedQty": "預約數",
+        "ExecutingQty": "使用中",
+        "AvailableQty": "可使用數",
+        "RealAvailableQty": "可使用數"
+    },
+    "Sajet.Barcode.Pages.TaskManagement.Booking.BookingVM": {
+        "BookingId": "預約編號",
+        "Machine": "設備編號",
+        "Chamber": "溫箱編號",
+        "WoNo": "工單編號",
+        "Qty": "預約數量",
+        "BookingStatus": "狀態",
+        "Priority": "預約順序",
+        "EstimatedHour": "計畫預估時間",
+        "UpdateUserName": "使用者",
+        "UpdateTime": "更新時間",
+        "OldQty": "預約數量(原)",
+        "OldPriority": "預約順序(原)",
+        "WoNo.Required": "請輸入 {0}",
+        "Qty.Required": "請輸入 {0}"
+    },
+    "Sajet.Barcode.Pages.TaskManagement.Booking.BookingLogVM": {
+        "BookingId": "預約編號",
+        "Machine": "設備編號",
+        "Chamber": "溫箱編號",
+        "WoNo": "工單編號",
+        "Qty": "預約數量",
+        "BookingStatus": "狀態",
+        "Priority": "預約順序",
+        "EstimatedHour": "計畫預估時間",
+        "UpdateUserName": "使用者",
+        "UpdateTime": "更新時間",
+        "Status": "狀態"
+    },
+    "Sajet.Barcode.Pages.TaskManagement.Booking.MainSearchVM": {
+        "WoNo": "工單編號"
+    },
+    //  Booking
+    //UserManagement
+    "Sajet.Barcode.Pages.SystemManagement.UserManagement.UserVM": {
+        "UserId": "帳號",
+        "UserName": "使用者名稱",
+        "Password": "密碼",
+        "ExpiredDate": "有效日期",
+        "Email": "郵件地址",
+        "UpdateUser": "使用者",
+        "UpdateTime": "更新時間",
+        "Enabled": "可使用",
+        "CrossProject": "跨專案",
+        "AdjustBooking": "是否可變更排程順序",
+        "UserRole": "角色",
+        "VendorId": "供應商",
+        "UserId.Required": "請輸入 {0}",
+        "UserName.Required": "請輸入 {0}",
+        "Password.Required": "請輸入 {0}"
+    },
+    "Sajet.Barcode.Pages.SystemManagement.UserManagement": {
+        "Msg_UserNo_Duplicate": "帳號資料重複",
+        "ForeignKeyFault": "此使用者資料已有其他資料表參照，因此無法刪除"
+    },
+    ///
+    //  MachineUtilizationRate
+    "Sajet.Barcode.Pages.ReportQuery.MachineUtilizationRate": {
+        "Text_Master": "稼動率",
+        "Text_Detail": "分時統計",
+        "Text_Date": "日期",
+        "Text_UtilizationRate": "稼動率(%)",
+        "Text_MachineUtilizationRate": "系統稼動率",
+        "Text_ChannelUtilizationRate": "通道稼動率",
+        "Func_ToDetail": "統計"
+    },
+    "Sajet.Barcode.Pages.ReportQuery.MachineUtilizationRate.MasterVM": {
+        "MachineGroup": "設備群組",
+        "Machine": "設備編號",
+        "Channel": "通道數",
+        "CalendarTime": "計畫工作時間(Hr.)",
+        "MachineWorkHour": "實際工作時間(Hr.)",
+        "MachineUtilizationRate": "系統稼動率",
+        "ChannelWorkHour": "通道使用時間(Hr.)",
+        "ChannelUtilizationRate": "通道稼動率"
+    },
+    "Sajet.Barcode.Pages.ReportQuery.MachineUtilizationRate.DetailVM": {
+        "Date": "日期",
+        "Channel": "通道數",
+        "CalendarTime": "計畫工作時間(Hr.)",
+        "MachineWorkHour": "實際工作時間(Hr.)",
+        "MachineUtilizationRate": "系統稼動率",
+        "ChannelWorkHour": "通道使用時間(Hr.)",
+        "ChannelUtilizationRate": "通道稼動率"
+    },
+    "Sajet.Barcode.Pages.ReportQuery.MachineUtilizationRate.MasterSearchVM": {
+        "MachineGroup": "設備群組",
+        "Machine": "設備編號"
+    },
+    "Sajet.Barcode.Pages.ReportQuery.MachineUtilizationRate.DetailSearchVM": {
+        "Machine": "設備編號",
+        "MachineGroup": "設備群組",
+        "MachineGroup.Required": "請輸入 {0}",
+        "Machine.Required": "請輸入 {0}"
+    },
+    "Sajet.Server.Pages.ChangePassword": {
+        "Password enter": "請輸入 新密碼",
+        "ConfirmPassword enter": "請輸入 確認密碼",
+        "Submit": "確認",
+        "Change Password": "密碼變更",
+        "Change Password failed.": "密碼變更失敗",
+        "Barcode": "雲端條碼列印平台"
+    },
+    "Sajet.Server.Pages.ChangePassword.PasswordInfo": {
+        "Password": "新密碼",
+        "Password.Required": "請輸入 {0}",
+        "ConfirmPassword": "確認密碼",
+        "ConfirmPassword.Required": "請輸入 {0}",
+        "ConfirmPassword.Compare": "{0} 與 新密碼 不相符"
+    },
+    "MailTranslation": {
+        "SubjectWorkOrderStatus": "工單狀態通知",
+        "SubjectJobStatus": "測試任務狀態通知",
+        "SubjectBookingStatus": "設備預約狀態通知",
+        "SubjectWorkOrderDelay": "工單延遲 {0} 日通知",
+        "SubjectReportImportFail": "報表資料匯入失敗通知",
+        "New": "新增",
+        "Delete": "刪除",
+        "WorkOrder": "工單編號",
+        "Status": "狀態",
+        "DueDate": "預計完成時間",
+        "Project": "專案",
+        "Model": "待測物型號",
+        "Version": "版本",
+        "MachineGroup": "設備群組",
+        "TestPlan": "測試計畫",
+        "TestPlanTime": "計畫預估時間",
+        "EngineerName": "工程師",
+        "BookingID": "預約編號",
+        "Machine": "設備編號",
+        "Chamber": "溫箱編號",
+        "Quantity": "預約數量",
+        "Priority": "預約順序",
+        "StartTime": "測試開始時間",
+        "EstimatedEndTime": "預計完成時間",
+        "EndTime": "測試結束時間",
+        "FilePath": "檔案路徑",
+        "ErrorMessage": "錯誤訊息",
+        "StatusWo": {
+            "Prepare": "準備",
+            "Ready": "資料預備",
+            "Booked": "已預約",
+            "TestAndAnalyze": "測試分析",
+            "TestComplete": "測試完成",
+            "Complete": "工單完成",
+            "AbnormalEnd": "異常終止"
+        },
+        "StatusJob": {
+            "Prepare": "預備中",
+            "Running": "測試中",
+            "Complete": "測試完成"
+        }
+    },
+    //  MachineUtilizationRate
+    //  POSelector
+    "Sajet.Barcode.Pages.Components.POSelectorVM": {
+        "PONO": "採購訂單",
+        "PODate": "採購日期"
+    },
+    //  POSelector
+    //  POLotSelector
+    "Sajet.Barcode.Pages.Components.POLotSelectorVM": {
+        "PONO": "採購訂單",
+        "POItem": "訂單項次",
+        "PartNO": "料件編號",
+        "LotNO": "物料條碼",
+        "DONO": "送貨單",
+        "Qty": "包裝容量",
+        "DateCode": "日期碼",
+        "UpdateTime": "更新時間"
+    },
+    "Sajet.Barcode.Pages.Components.POLotSelector.SearchFormVM": {
+        "PONO": "採購訂單",
+        "POItem": "訂單項次"
+    },
+    //  POLotSelector
+    //  LabelByPO
+    "Sajet.Barcode.Pages.PO.LabelByPO": {
+        "Msg_TakeNOAmoutLargeThanRemainingAmount": "取號數量超出剩餘數量",
+        "POItem": "訂單項次",
+        "PackingCapacity": "包裝容量",
+        "PackingQty": "總包裝數",
+        "TotalQty": "總數量",
+        "TotalNO": "總件數",
+        "CollapseTakeNOFormText": "取號窗格",
+        "CollapseSearchFormText": "查詢窗格",
+        "Msg_Delete_DONO": "物料條碼{0}無法刪除:已送貨",
+        "Msg_PdfPrint": "請選擇資料"
+    },
+    "Sajet.Barcode.Pages.PO.LabelByPO.TakeNoFormVM": {
+        "PONO": "採購訂單",
+        "POItem": "訂單項次",
+        "PartNO": "料件編號",
+        "Spec1": "料號描述",
+        "TakeNODateText": "取號日期",
+        "Qty": "採購數量",
+        "ReceiveQty": "已取數量",
+        "ReturnQty": "退回數量",
+        "DateCode": "日期碼",
+        "PackingCapacity": "包裝容量",
+        "PackingQty": "總包裝數",
+        "TotalQty": "總數量",
+        "TotalNO": "總件數",
+        "WithoutDONO": "只顯示未產生送貨單",
+        "PONO.Required": "請輸入 {0}",
+        "POItem.Required": "請輸入 {0}",
+        "DateCode.Required": "請輸入 {0}",
+        "PackingCapacity.Required": "請輸入 {0}",
+        "PackingQty.Required": "請輸入 {0}"
+    },
+    "Sajet.Barcode.Pages.PO.LabelByPO.POLotVM": {
+        "PONO": "採購訂單",
+        "POItem": "訂單項次",
+        "PartNO": "料件編號",
+        "LotNO": "物料條碼",
+        "DONO": "送貨單",
+        "Qty": "包裝容量",
+        "DateCode": "日期碼",
+        "UpdateTime": "更新時間"
+    },
+    //  LabelByPO
+    //  DeliveryByPO
+    "Sajet.Barcode.Pages.PO.DeliveryByPO": {
+        "DONO": "送貨單號",
+        "CollapseDOFormText": "送貨單窗格",
+        "Msg_DeleteWithRTNO": "已收貨，無法刪除",
+        "LotNO": "物料條碼",
+        "Msg_CreateLotWithDONO": "物料條碼已有送貨單號"
+    },
+    "Sajet.Barcode.Pages.PO.DeliveryByPO.DOFormVM": {
+        "DONO": "送貨單號",
+        "RTNO": "收貨單號",
+        "Description": "備註",
+        "ManualLotNO": "刷入物料條碼",
+        "DONO.Required": "請輸入 {0}",
+        "ManualLotNO.PlaceHolder": "輸入後按Enter加入"
+    },
+    "Sajet.Barcode.Pages.PO.DeliveryByPO.POLotVM": {
+        "PONO": "採購訂單",
+        "POItem": "訂單項次",
+        "PartNO": "料件編號",
+        "LotNO": "物料條碼",
+        "DONO": "送貨單",
+        "Qty": "包裝容量",
+        "DateCode": "日期碼",
+        "UpdateTime": "更新時間",
+        "VendorID": "供應商"
+    },
+    //  DeliveryByPO
+    //  ImportByPO
+    "Sajet.Barcode.Pages.PO.ImportByPO": {
+        "CollapseUploadFormText": "匯入作業",
+        "Qty": "包裝容量",
+        "Msg_TakeNOAmoutLargeThanRemainingAmount": "取號數量超出剩餘數量",
+        "Msg_InvalidPartNO": "料件編號錯誤"
+    },
+    "Sajet.Barcode.Pages.PO.ImportByPO.UploadFormVM": {
+        "FilePath": "檔案路徑",
+        "FilePath.Required": "請上傳檔案"
+    },
+    "Sajet.Barcode.Pages.PO.ImportByPO.ExcelDataVM": {
+        "ExcelNO": "Excel NO.",
+        "PONO": "採購訂單",
+        "POItem": "訂單項次",
+        "PartNO": "料件編號",
+        "LotNO": "物料條碼",
+        "Qty": "包裝容量",
+        "DateCode": "日期碼",
+        "TotalQty": "總數量",
+        "TotalNO": "總件數",
+        "Message": "訊息"
+    },
+    //  ImportByPO
+    "Localization.Function": {
+        "Barcode Center": "條碼管理",
+        "Data Center": "基本資料",
+        "USERS": "使用者",
+        "ROLE": "角色",
+        "CHANGEPASSWORD": "密碼變更",
+        "LABELBYPO": "取號作業",
+        "Authority Management": "權限管理",
+        "PO": "訂單取號",
+        "DELIVERYBYPO": "訂單交貨",
+        "IMPORTBYPO": "匯入作業",
+        "QUERYBYPO": "交貨查詢",
+        "QUERYORDER": "訂單查詢"
+    },
+    "Sajet.Barcode.Pages.PO.QueryByPO.POByQueryVM": {
+        "DO_NO": "送貨單號",
+        "Status": "狀態",
+        "RT_NO": "收貨單號",
+        "PO_NO": "採購訂單",
+        "PO_Item": "訂單項次",
+        "Part_No": "料件編號",
+        "Qty": "數量",
+        "Spec": "料號描述",
+        "Description": "備註",
+        "UpdateTime": "更新時間"
+    },
+    "Sajet.Barcode.Pages.PO.QueryByPO.DetailVM": {
+        "Lot_NO": "物料條碼",
+        "DateCode": "日期碼",
+        "Qty": "數量",
+        "Enabled": "是否有效"
+    },
+    "Sajet.Barcode.Pages.PO.QueryByPO.POFormVM": {
+        "DO_NO": "送貨單號",
+        "PO_NO": "採購訂單",
+        "Part_No": "料件編號",
+        "Enabled": "是否啟用(物料條碼)"
+    },
+    "Sajet.Barcode.Pages.PO.QueryByPO": {
+        "UpdateTime": "更新時間",
+        "StartUpdateTime": "更新時間(起)",
+        "EndUpdateTime": "更新時間(訖)",
+        "Lot_NO": "物料條碼",
+        "DateCode": "日期碼",
+        "Qty": "數量",
+        "Enabled": "是否有效"
+    },
+    "Sajet.Barcode.Pages.PO.QueryOrder.QueryOrderVM": {
+        "PO_NO": "採購訂單",
+        "PO_Item": "訂單項次",
+        "Part_No": "料件編號",
+        "Qty": "數量",
+        "Recive_Qty": "已取數量",
+        "Return_Qty": "退回數量",
+        "PO_DATE": "訂單時間"
+    },
+    "Sajet.Barcode.Pages.PO.QueryOrder.QueryOrderDetailVM": {
+        "Lot_NO": "物料條碼",
+        "DateCode": "日期碼",
+        "Qty": "數量",
+        "Enabled": "是否有效"
+    },
+  "Sajet.Barcode.Pages.PO.QueryOrder.POFormVM": {
+    "PO_NO": "採購訂單",
+    "Part_No": "料件編號"
+  },
+  "Sajet.Barcode.Pages.PO.QueryOrder": {
+    "UpdateTime": "更新時間",
+    "StartUpdateTime": "訂單時間(起)",
+    "EndUpdateTime": "訂單時間(訖)",
+    "Lot_NO": "物料條碼",
+    "DateCode": "日期碼",
+    "Qty": "數量",
+    "Enabled": "是否有效",
+    "EnabledLotNo": "是否啟用"
+  }
+}

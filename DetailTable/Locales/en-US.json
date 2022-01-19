@@ -1,0 +1,1155 @@
+﻿{
+    "BootstrapBlazor.Components.AutoComplete": {
+        "NoDataTip": "No Data",
+        "PlaceHolder": "Please Input"
+    },
+    "BootstrapBlazor.Components.BarcodeReader": {
+        "ButtonScanText": "Scan",
+        "ButtonStopText": "Close",
+        "AutoStopText": "AutoClose",
+        "DeviceLabel": "Camera",
+        "InitDevicesString": "Initialzie ...",
+        "NotFoundDevicesString": "Not found video device"
+    },
+    "BootstrapBlazor.Components.Captcha": {
+        "HeaderText": "Captcha",
+        "BarText": "Slide right to fill puzzle",
+        "FailedText": "Load failed",
+        "LoadText": "Loading ...",
+        "TryText": "Try again"
+    },
+    "BootstrapBlazor.Components.Camera": {
+        "DeviceLabel": "Camera",
+        "InitDevicesString": "Initialzie ...",
+        "PlayText": "Open",
+        "StopText": "Close",
+        "PhotoText": "Photo",
+        "FrontText": "Front",
+        "BackText": "Back",
+        "NotFoundDevicesString": "Not found video device"
+    },
+    "BootstrapBlazor.Components.Calendar": {
+        "PreviousMonth": "Previous Month",
+        "Today": "Today",
+        "NextMonth": "Next Month",
+        "PreviousWeek": "Previous Week",
+        "WeekText": "Week",
+        "NextWeek": "Next Week",
+        "WeekHeaderText": "",
+        "WeekLists": "Sun,Mon,Tue,Wed,Thu,Fri,Sat",
+        "WeekNumberText": "{0} Weeks",
+        "Months": "January,February,March,April,May,June,July,August,September,October,November,December",
+        "Title": "{0} {1}"
+    },
+    "BootstrapBlazor.Components.Console": {
+        "HeaderText": "Monitor",
+        "LightTitle": "Light",
+        "ClearButtonText": "Clear",
+        "AutoScrollText": "AutoScroll"
+    },
+    "BootstrapBlazor.Components.DateTimePicker": {
+        "DatePlaceHolder": "Select date",
+        "TimePlaceHolder": "Select time",
+        "DateTimePlaceHolderText": "Please select ...",
+        "DatePlaceHolderText": "Please select ...",
+        "TimeFormat": "hh\\:mm\\:ss",
+        "DateFormat": "M/d/yyyy",
+        "DateTimeFormat": "M/d/yyyy HH\\:mm\\:ss",
+        "AiraPrevYearLabel": "Prev Year",
+        "AiraNextYearLabel": "Next Year",
+        "AiraPrevMonthLabel": "Prev Month",
+        "AiraNextMonthLabel": "Next Month",
+        "ClearButtonText": "Clear",
+        "NowButtonText": "Now",
+        "ConfirmButtonText": "Ok",
+        "CancelButtonText": "Cancel",
+        "YearText": "{0}",
+        "MonthText": "{0}",
+        "YearPeriodText": "{0} - {1}",
+        "Months": "January,February,March,April,May,June,July,August,September,October,November,December",
+        "MonthLists": "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec",
+        "WeekLists": "Sun,Mon,Tue,Wed,Thu,Fri,Sat",
+        "GenericTypeErroMessage": "DateTimePicker only support DateTime or Nullable<DateTime>",
+        "Today": "Today",
+        "Yesterday": "Yesterday",
+        "Weekago": "A week ago"
+    },
+    "BootstrapBlazor.Components.DateTimeRange": {
+        "SeparateText": "To",
+        "StartPlaceHolderText": "Start date",
+        "EndPlaceHolderText": "End date",
+        "ClearButtonText": "Clear",
+        "ConfirmButtonText": "Ok",
+        "DateFormat": "M/d/yyyy",
+        "Last7Days": "Last 7 Days",
+        "Last30Days": "Last 30 Days",
+        "ThisMonth": "This Month",
+        "LastMonth": "Last Month"
+    },
+    "BootstrapBlazor.Components.ResultDialogOption": {
+        "ButtonYesText": "Yes",
+        "ButtonNoText": "No",
+        "ButtonCloseText": "Close"
+    },
+    "BootstrapBlazor.Components.DropdownList": {
+        "PlaceHolder": "Please select ..."
+    },
+    "BootstrapBlazor.Components.Editor": {
+        "PlaceHolder": "Click to edit"
+    },
+    "BootstrapBlazor.Components.EditorForm": {
+        "ModelInvalidOperationExceptionMessage": "ValidateForm MODEL not match {0} MODEL",
+        "PlaceHolderText": "Please input ..."
+    },
+    "BootstrapBlazor.Components.EqualToValidator": {
+        "ErrorMessage": "Please enter the same value again"
+    },
+    "BootstrapBlazor.Components.GoTop": {
+        "TooltipText": "Go top"
+    },
+    "BootstrapBlazor.Components.Layout": {
+        "TooltipText": "Click to Expand/Collapse sidebar"
+    },
+    "BootstrapBlazor.Components.MultiSelect": {
+        "PlaceHolder": "Click for select ...",
+        "SelectAllText": "All",
+        "ReverseSelectText": "Reverse",
+        "ClearText": "Clear"
+    },
+    "BootstrapBlazor.Components.Pagination": {
+        "AiraPageLabel": "Pagination",
+        "AiraPrevPageText": "Prev",
+        "AiraFirstPageText": "First",
+        "AiraNextPageText": "Next",
+        "PageInfoText": "{0}-{1}",
+        "TotalInfoText": ", Total {0}",
+        "PrePageInfoText": "",
+        "RowInfoText": "",
+        "LabelString": "page {0}",
+        "SelectItemsText": "{0}"
+    },
+    "BootstrapBlazor.Components.PopConfirmButton": {
+        "CloseButtonText": "Cancel",
+        "ConfirmButtonText": "Ok",
+        "Content": "Are you sure DELETE?"
+    },
+    "BootstrapBlazor.Components.QRCode": {
+        "PlaceHolder": "Please input ...",
+        "ClearButtonText": "Clear",
+        "GenerateButtonText": "Generate"
+    },
+    "BootstrapBlazor.Components.RequiredValidator": {
+        "ErrorMessage": "This field is required"
+    },
+    "BootstrapBlazor.Components.Search": {
+        "SearchButtonText": "Search"
+    },
+    "BootstrapBlazor.Components.Select": {
+        "PlaceHolder": "Click for select ..."
+    },
+    "BootstrapBlazor.Components.StringLengthValidator": {
+        "ErrorMessage": "Please enter a value less than or equal to {{0}}"
+    },
+    "BootstrapBlazor.Components.SweetAlert": {
+        "CloseButtonText": "Close",
+        "CancelButtonText": "Cancel",
+        "ConfirmButtonText": "Confirm"
+    },
+    "BootstrapBlazor.Components.Switch": {
+        "OnInnerText": "On",
+        "OffInnerText": "Off"
+    },
+    "BootstrapBlazor.Components.Tab": {
+        "CloseCurrentTabText": "Close",
+        "CloseOtherTabsText": "Close Other",
+        "CloseAllTabsText": "Close All"
+    },
+    "BootstrapBlazor.Components.Table": {
+        "AddButtonText": "Add",
+        "EditButtonText": "Edit",
+        "DeleteButtonText": "Delete",
+        "SaveButtonText": "Save",
+        "CancelDeleteButtonText": "Cancel",
+        "ConfirmDeleteButtonText": "Delete",
+        "ConfirmDeleteContentText": "Are you sure to DELETE all selected rows?",
+        "RefreshButtonText": "Refresh",
+        "ColumnButtonTitleText": "Show/Hide Columns",
+        "ColumnButtonText": "Columns",
+        "ExportButtonText": "Export",
+        "SearchPlaceholderText": "Search",
+        "SearchButtonText": "Search",
+        "ResetButtonText": "Reset",
+        "AdvanceButtonText": "Advance Search",
+        "CheckboxDisplayText": "All",
+        "EditModalTitle": "Edit Data",
+        "AddModalTitle": "New Data",
+        "ColumnButtonTemplateHeaderText": "",
+        "SearchTooltip": "<div class='search-input-tooltip'>Please input ...</br><kbd>Enter</kbd> Search <kbd>ESC</kbd> Clear</div>",
+        "SearchModalTitle": "Searching",
+        "AddButtonToastTitle": "Add Data",
+        "AddButtonToastContent": "Save data failed. Please provider SAVE method",
+        "EditButtonToastTitle": "Add Data",
+        "EditButtonToastNotSelectContent": "Save data failed. Please provider SAVE method",
+        "EditButtonToastMoreSelectContent": "Only one row can be EDIT",
+        "EditButtonToastNoSaveMethodContent": "Can not EDIT data. Please provider SAVE method",
+        "SaveButtonToastTitle": "Save Data",
+        "SaveButtonToastContent": "Save data failed. Please provider SAVE method",
+        "SaveButtonToastResultContent": "Save data {0}, auto close after {1}s",
+        "SuccessText": "Successful",
+        "FailText": "Failed",
+        "DeleteButtonToastTitle": "Delete Data",
+        "DeleteButtonToastContent": "Please select DELETE rows, auto close after {1}s",
+        "DeleteButtonToastResultContent": "Delete data {0}, auto close after {1}s",
+        "DataServiceInvalidOperationText": "Cannot provide a value for property 'DataService' on type 'BootstrapBlazor.Components.Table`1[[{0}]]'. There is no registered service of type 'BootstrapBlazor.Components.IDataService`1[{0}]'."
+    },
+    "BootstrapBlazor.Components.EditDialog": {
+        "CloseButtonText": "Close",
+        "SaveButtonText": "Save"
+    },
+    "BootstrapBlazor.Components.TableFilter": {
+        "Title": "Filter",
+        "ClearButtonText": "Clear",
+        "FilterButtonText": "Filter",
+        "BoolFilter.AllText": "All",
+        "BoolFilter.TrueText": "True",
+        "BoolFilter.FalseText": "False",
+        "GreaterThanOrEqual": "GreaterThanOrEqual",
+        "LessThanOrEqual": "LessThanOrEqual",
+        "GreaterThan": "GreaterThan",
+        "LessThan": "LessThan",
+        "Equal": "Equal",
+        "NotEqual": "NotEqual",
+        "Contains": "Contains",
+        "NotContains": "NotContains",
+        "EnumFilter.AllText": "All"
+    },
+    "BootstrapBlazor.Components.SearchDialog": {
+        "ResetButtonText": "Reset",
+        "QueryButtonText": "Query"
+    },
+    "BootstrapBlazor.Components.Timer": {
+        "PauseText": "Pause",
+        "ResumeText": "Resume",
+        "CancelText": "Cancel",
+        "StarText": "Star"
+    },
+    "BootstrapBlazor.Components.Toggle": {
+        "OnText": "Expand",
+        "OffText": "Collapse"
+    },
+    "BootstrapBlazor.Components.Transfer": {
+        "LeftPanelText": "List 1",
+        "RightPanelText": "List 2"
+    },
+    "BootstrapBlazor.Components.Upload": {
+        "DeleteButtonText": "Delete",
+        "BrowserButtonText": "Browser",
+        "FileExtensions": "The extension must be in the following formats: {0}",
+        "FileSizeValidation": "The file size is limited to {0}"
+    },
+    "Localization.Text": {
+        "Freezing": "Freezing",
+        "Language": "Language",
+        "Yes": "Yes",
+        "No": "No",
+        "SuccessButSomeFailed": "Delete success! But some data can't be deleted!",
+        "Func_Create": "Add",
+        "Func_BatchCreate": "Batch Modify",
+        "Func_Edit": "Edit",
+        "Func_Delete": "Delete",
+        "Func_Save": "Save",
+        "Func_Cancel": "Cancel",
+        "Func_Close": "Close",
+        "Func_Search": "Search",
+        "Func_Clear": "Clear",
+        "Func_Select": "Select",
+        "Func_Refresh": "Refresh",
+        "Func_TakeNo": "Take Number",
+        "Func_PrintLabel": "Print Label",
+        "Func_Update": "Update",
+        "Func_Upload": "Upload",
+        "Func_DownloadTemplate": "Download Template",
+        "Msg_SelectWith": "Please choose {0}",
+        "Msg_NoSelectedItem": "You have not selected data",
+        "Msg_SelectWithBefore": "Please select {0} before",
+        "Msg_DistributionUserItem": "Select User",
+        "Msg_DistributionFunctionItem": "Select Function",
+        "Msg_ForeignKeyFault": "The {0} data exists foreign key.Cannot delete it",
+        "Msg_PositiveInteger": "Must be a positive integer",
+        "Msg_PositiveDouble": "Cannot be negative or 0",
+        "Msg_TemplateNotFound": "Unable to find the template, please notify the administrator",
+        "Msg_IsExist": "{0} already exists",
+        "Msg_IsNotExist": "{0} does not exist",
+        "Msg_ConfirmDelete": "Are you sure you want to delete {0}?",
+        "Msg_Empty": "{0} cannot be empty",
+        "Msg_ReadError": "Read Error",
+        "Msg_Error": "{0} Error",
+        "Msg_StartDateEndDate": "Start Date cannot greater than End Date.",
+        "Text_Success": "Success",
+        "Text_Failed": "Failed",
+        "Text_TableFuncToastTitle": "{0} data",
+        "Text_TableFuncToastNotSelectContent": "Please choose {0} data",
+        "Text_TableFuncToastMoreSelectContent": "You can just choose a {0} data",
+        "Text_TableFuncToastResultContent": "{0} data {1}",
+        "Text_TableConfirmContentText": "Are you sure to {0} all selected rows？",
+        "Text_Project": " Project",
+        "Text_All": "All",
+        "Text_SearchBlock": "Search Block",
+        "Text_Machine": " Machine",
+        "Text_DutModel": " UUT Model",
+        "Text_Function": " Function",
+        "Text_Location": " Location",
+        "Text_MachineGroup": " Machine Group",
+        "Text_MachineStatus": " Machine Status",
+        "Text_ProjectMember": " Member",
+        "Text_Role": " Role",
+        "Text_TestPlan": " Test Plan",
+        "Text_User": " User",
+        "Text_Supplier": " Supplier",
+        "Text_Vendor": " Vendor",
+        "Text_WorkOrder": " Work Order",
+        "Text_PO": "Purchase Order",
+        "Text_PONO": "Purchase Order",
+        "Text_POItem": "Order Item",
+        "Text_POLot": "Material Barcode",
+        "Text_PartNO": "Part Number",
+        "Text_DO": "Delivery Note",
+        "PROJECT": "Project",
+        "MODEL": "UUT Model",
+        "MACHINEGROUP": "Machine Group",
+        "MACHINE": "Machine/Group",
+        "MACHINESTATUSCHANGE": "Machine Status",
+        "PROJECTMEMBERMAINTAIN": "Project Member",
+        //"Task Management": "",
+        "WORKORDER": "Work order",
+        "BOOKING": "Booking",
+        "BOOKINGADJUST": "Booking Priority",
+        "WORKSTATION": "Workstation",
+        "TESTPLANMAINTAINENCE": "Test Plan",
+
+        //"Real-time Monitoring": "",
+        "MACHINESTATUS": "Monitor",
+        "CHANNELSTATUS": "Channel Status",
+
+        //"Report Query": "",
+        "MACHINEUTE": "Utilization",
+        "CHANNELUTE": "Channel Utilization rate",
+        "SAMPLINGRECORD": "Sampling Record",
+        "STEPRECORD": "Step Record",
+
+        //"System Management": "",
+        "CALENDARTIME": "Calendar",
+        "USERS": "Users",
+        "ROLE": "Role"
+    },
+    //Machine
+    "Sajet.Barcode.Pages.BasicInformation.Machines.MachineVM": {
+        "Machine": "Machine ID",
+        "Channel": "Channel Qty",
+        "Chamber": "Chamber",
+        "MachineGroup": "Machine Group",
+        "UpdateTime": "Update Time",
+        "UpdateUser": "Update User",
+        "Enabled": "Enable",
+        "Location": "Location",
+        "Machine.Required": "Please input {0}",
+        "Channel.Required": "Please input {0}",
+        "MachineGroup.Required": "Please input {0}"
+    },
+    "Sajet.Barcode.Pages.BasicInformation.Machines.MachineGroupVM": {
+        "MachineGroup": "Machine Group",
+        "MachineGroupDescription": "Description",
+        "MachineModel": "Machine Model",
+        "Supplier": "Supplier",
+        "UpdateTime": "Update Time",
+        "UpdateUser": "Update User",
+        "Enabled": "Enable",
+        "EditorName": "Editor PC",
+        "MachineGroup.Required": "Please input {0}"
+    },
+    "Sajet.Barcode.Pages.BasicInformation.Machines": {
+        "MachineData": "Machine",
+        "MachineGroup": "Machine Group",
+        "MachineGroupDescription": "Description",
+        "MachineModel": "Machine Model",
+        "Supplier": "Supplier",
+        "UpdateTime": "Update Time",
+        "UpdateUser": "Update User",
+        "Enabled": "Enable",
+        "EditorName": "Editor PC",
+        "Close": "Close",
+        "SetChannel": "Set Channel",
+        "ForeignKeyFault": "Foreign Key exists.Cannot delete it",
+        "MachineIsDuplicated": "Machine is duplicated",
+        "MachineGroupIsDuplicated": "Machine Group is duplicated"
+    },
+    ///
+    "Sajet.Barcode.Data.SYS_USER": {
+        "USER_ID": "User ID",
+        "USER_NAME": "User Name",
+        "PASSWD": "Password",
+        "EXPIRED_DATE": "Expiration Date",
+        "EMAIL": "Mail",
+        "CROSS_PROJECT": "Cross-project",
+        "UPDATE_USER": "Update User",
+        "UPDATE_TIME": "Update Time",
+        "ENABLED": "Enable"
+    },
+    "Sajet.Server.Shared.MainLayout": {
+        //"Basic Information": "",
+        "PROJECT": "Project",
+        "MODEL": "UUT Model",
+        "MACHINEGROUP": "Machine Group",
+        "MACHINE": "Machine/Group",
+        "MACHINESTATUSCHANGE": "Machine Status",
+        "PROJECTMEMBERMAINTAIN": "Project Member",
+        //"Task Management": "",
+        "WORKORDER": "Work order",
+        "BOOKING": "Booking",
+        "BOOKINGADJUST": "Booking Priority",
+        "WORKSTATION": "Workstation",
+        "TESTPLANMAINTAINENCE": "Test Plan",
+
+        //"Real-time Monitoring": "",
+        "MACHINESTATUS": "Monitor",
+        "CHANNELSTATUS": "Channel Status",
+
+        //"Report Query": "",
+        "MACHINEUTE": "Utilization",
+        "CHANNELUTE": "Channel Utilization rate",
+        "SAMPLINGRECORD": "Sampling Record",
+        "STEPRECORD": "Step Record",
+
+        //"System Management": "",
+        "CALENDARTIME": "Calendar",
+
+
+        "DASHBORADLAYOUT": "Dashborad Layout",
+        "DASHBORAD": "Dashborad"
+    },
+    "Sajet.Server.Pages.Login": {
+        "Login": "Login",
+        "Enter ...": "Please enter ...",
+        "Submit": "Login",
+        "Loading": "Loading",
+        "Login failed": "Login failed",
+        "Please confirm User No or Password.": "Please confirm User ID or Password"
+    },
+    "Sajet.Data.UserInfo": {
+        "UserId": "User ID",
+        "UserId.Required": "Please input {0}",
+        "Password": "Password",
+        "Password.Required": "Please input {0}"
+    },
+    //  CalendarMaintain
+    "Sajet.Barcode.Pages.SystemManagement.CalendarMaintain": {
+        "Msg_WorkDate_Exist": "Date is exist",
+        "Msg_StartDate_LargeThanEndDate": "Start Date is larger than End Date",
+        "Msg_EditDefault": "Default data can't be edit",
+        "Msg_DeleteDefault": "Default data can't be delete",
+        "Msg_DateTimeRange_Invalid": "Wrong choice of date range",
+        "Msg_IncludeDayOfWeek_Required": "Please select at least one week",
+        "Text_TotalTime": " Work Hour Setting"
+    },
+    "Sajet.Barcode.Pages.SystemManagement.CalendarMaintain.CalendarTimeVM": {
+        "WorkDate": "Date",
+        "TotalTime": "Work Hour",
+        "WorkDate.Required": "Plese input {0}",
+        "TotalTime.Required": "Please input {0}",
+        "TotalTime.Range": "{0} must be between {1} and {2}"
+    },
+    "Sajet.Barcode.Pages.SystemManagement.CalendarMaintain.BatchCreateVM": {
+        "DateTimeRange": "Date Range",
+        "TotalTime": "Work Hour",
+        "IncludeDayOfWeek": "Include day of week",
+        "TotalTime.Required": "Please input {0}",
+        "TotalTime.Range": "{0} must be between {1} and {2}"
+    },
+    //  CalendarMaintain
+    // DUTModel
+    "Sajet.Barcode.Pages.BasicInformation.DUTModel.ModelVM": {
+        "DUTModelID": "ID",
+        "Project": "Project",
+        "DUTModel": "UUT Model",
+        "DUTModelVersion": "Version",
+        "DUTModelDescription": "Description",
+        "UpdateTime": "Update Time",
+        "UpdateUser": "Update User",
+        "DUTModelID.Required": "Please input {0}",
+        "Project.Required": "Please input {0}",
+        "DUTModel.Required": "Please input {0}"
+    },
+    "Sajet.Barcode.Pages.BasicInformation.DUTModel": {
+        "CloseText": "Close",
+        "ModelDuplicate": "UUT Model is duplicate"
+    },
+    //MachineStatus
+    "Sajet.Barcode.Pages.BasicInformation.MachineStatusChange.MachineStatusChangeVM": {
+        "Machine": "Machine ID",
+        "StartTime": "Start Time",
+        "EndTime": "End Time",
+        "Status": "Status Code",
+        "StatusType": "Status Type",
+        "Description": "Remark",
+        "UpdateUser": "Update User",
+        "UpdateTime": "Update Time",
+        "StatusName": "Status",
+        "Machine.Required": "Please input {0}",
+        "StartTime.Required": "Please input {0}",
+        "EndTime.Required": "Please input {0}",
+        "Status.Required": "Please input {0}",
+        "StatusType.Required": "Please input {0}",
+        "StatusName.Required": "Please input {0}"
+    },
+    "Sajet.Barcode.Pages.BasicInformation.MachineStatusChange": {
+        "Close": "Close",
+        "StartDateEndDate": "Start Date must be less than End Date",
+        "StartDateEqualsEndDate": "Start Date cannot be equal to End Date",
+        "OverlapTime": "Time range is overlapped",
+        "DuplicateStartTime": "Start Time is duplicated",
+        "StandByOrProductiveCannotBeDeleted": "STANDBY or PRODUCTIVE Status can't be deleted!",
+        "TestingStartTime": "Bescause this machine's status is 'Testing',start time can't larger than this machine start time.",
+        "CrossDay": "Cross Day"
+    },
+    ///
+    //Project
+    "Sajet.Barcode.Pages.BasicInformation.Project.ProjectVM": {
+        "Project": "Project",
+        "Owner": "Owner",
+        "ProjectDescription": "Description",
+        "UpdateTime": "Update Time",
+        "UpdateUser": "Update User",
+        "Enabled": "Enable",
+        "UserName": "Username",
+        "OwnerName": "Owner",
+        "Project.Required": "Please input {0}",
+        "Owner.Required": "Please input {0}",
+        "OwnerName.Required": "Please input {0}"
+    },
+    "Sajet.Barcode.Pages.BasicInformation.Project": {
+        "ForeignKeyFault": "Foreign Key exists.Cannot delete it",
+        "Msg_Project_Duplicate": "Project is duplicated"
+    },
+    ///
+    //ProjectMemberMaintain
+    "Sajet.Barcode.Pages.BasicInformation.ProjectMemberMaintain.ProjectMemberMaintainVM": {
+        "Project": "Project",
+        "Owner": "Owner",
+        "ProjectDescription": "Description",
+        "UpdateTime": "Update Time",
+        "UpdateUser": "Update User",
+        "Enabled": "Enable",
+        "UserId": "Member",
+        "UserName": "Member",
+        "OwnerName": "Owner",
+        "Project.Required": "Please input {0}",
+        "Owner.Required": "Please input {0}",
+        "OwnerName.Required": "Please input {0}"
+    },
+    "Sajet.Barcode.Pages.BasicInformation.ProjectMemberMaintainVM": {
+        "ForeignKeyFault": "Foreign Key exists.Cannot delete it",
+        "Msg_Project_Duplicate": "Project is duplicated"
+    },
+    ///
+    //Role
+    "Sajet.Barcode.Pages.SystemManagement.RoleManagement.RoleVM": {
+        "RoleId": "Role",
+        "RoleDescription": "Description",
+        "UpdateTime": "Update Time",
+        "UpdateUser": "Update User",
+        "RoleFunctionNames": "Role Function",
+        "Enabled": "Enable"
+    },
+    "Sajet.Barcode.Pages.SystemManagement.RoleManagement": {
+        "Msg_Role_Duplicate": "Role is duplicated",
+        "DistributeUser": "Select User",
+        "DistributeFunction": "Select Function",
+        "ForeignKeyFault": "Foreign Key exists.Cannot delete it"
+    },
+    ///
+    ///
+    //  Enum
+    "Sajet.Barcode.Common.WoStatus": {
+        "Prepare": "Prepare",
+        "Ready": "Ready",
+        "Booked": "Booked",
+        "TestAndAnalyze": "Test&Analyze",
+        "TestComplete": "Test Complete",
+        "Complete": "Complete",
+        "AbnormalEnd": "Abnormal End"
+    },
+    "Sajet.Barcode.Common.LogStatus": {
+        "Create": "Create",
+        "Edit": "Edit",
+        "Delete": "Delete",
+        "Execute": "Execute"
+    },
+    "Sajet.Barcode.Common.BookingStatus": {
+        "Booked": "Booked",
+        "Workable": "Workable",
+        "Testing": "Testing"
+    },
+    "Sajet.Barcode.Common.DateTimeRangeMode": {
+        "Day": "Day",
+        "Month": "Month"
+    },
+    "Sajet.Barcode.Common.DOSTatus": {
+        "Initial": "Initial",
+        "Receiven": "Receiven",
+        "Return": "Return"
+    },
+    //  Enum
+    //  Selector
+    "Sajet.Barcode.Pages.Components.ProjectSelectorVM": {
+        "Project": "Project",
+        "Owner": "Owner",
+        "ProjectDesc": "Description"
+    },
+    "Sajet.Barcode.Pages.Components.TestPlanSelectorVM": {
+        "TestPlanId": "ID",
+        "Project": "Project",
+        "DutModel": "UUT Model",
+        "DutModelVer": "Version",
+        "MachineGroup": "Machine Group",
+        "TestPlan": "Test Plan",
+        "TestPlanDesc": "Description"
+    },
+    "Sajet.Barcode.Pages.Components.UserSelectorVM": {
+        "UserId": "User ID",
+        "UserName": "Username"
+    },
+    "Sajet.Barcode.Pages.Components.SupplierSelectorVM": {
+        "Supplier": "Suppler",
+        "SupplierDesc": "Description"
+    },
+    "Sajet.Barcode.Pages.Components.LocationSelectorVM": {
+        "Location": "Location"
+    },
+    "Sajet.Barcode.Pages.Components.MachineGroupSelectorVM": {
+        "MachineGroup": "Machine Group",
+        "MachineGroupDesc": "Description",
+        "MachineModel": "Machine Model",
+        "Supplier": "Supplier"
+    },
+    "Sajet.Barcode.Pages.Components.WorkOrderSelectorVM": {
+        "WoNo": "Work Order",
+        "Status": "Status",
+        "Project": "Project",
+        "DutModel": "UUT Model",
+        "DutModelVer": "Version",
+        "MachineGroup": "Machine Group",
+        "TestPlan": "Test Plan",
+        "TestPlanTime": "Plan Time"
+    },
+    "Sajet.Barcode.Pages.Components.DutModelSelectorVM": {
+        "Project": "Project",
+        "DutModel": "UUT Model",
+        "DutModelVer": "Version",
+        "DutModelDesc": "Description"
+    },
+    "Sajet.Barcode.Pages.Components.SnEditor": {
+        "Title": "Title",
+        "Msg_Sn_Empty": "Please input SN",
+        "Msg_Sn_Duplicate": "SN is duplicated",
+        "Text_Qty": "Quantity",
+        "Text_QtyNow": "Current Qty"
+    },
+    "Sajet.Barcode.Pages.Components.SnEditor.SnEditorVM": {
+        "Sn": "SN"
+    },
+    "Sajet.Barcode.Pages.Components.ProjectMemberSelectorVM": {
+        "UserId": "User ID",
+        "UserName": "Username"
+    },
+    "Sajet.Barcode.Pages.Components.MachineStatusSelectorVM": {
+        "Status": "Status Code",
+        "StatusName": "Status",
+        "StatusColor": "Status Color",
+        "FontColor": "Font Color",
+        "StatusType": "Status Type"
+    },
+    "Sajet.Barcode.Pages.Components.MachineSelectorVM": {
+        "Machine": "Machine ID",
+        "Channel": "Channel Qty",
+        "MachineGroup": "Machine Group",
+        "Location": "Location"
+    },
+    "Sajet.Barcode.Pages.Components.RoleSelectorVM": {
+        "RoleId": "Role",
+        "RoleDesc": "Description"
+    },
+    "Sajet.Barcode.Pages.Components.VendorSelectorVM": {
+        "VendorId": "Code",
+        "VendorName": "Name",
+        "VendorDesc": "Description"
+    },
+    "Sajet.Barcode.Pages.Components.FunctionSelectorVM": {
+        "Module": "Module",
+        "LocalizedFunctionName": "Function"
+    },
+    "Sajet.Barcode.Pages.Components.ProjectOwnerSelectorVM": {
+        "UserId": "User ID",
+        "UserName": "User Name",
+        "RoleName": "Role"
+    },
+    "Sajet.Barcode.Pages.Components.WorkOrderProjectMemberSelectorVM": {
+        "UserId": "User ID",
+        "UserName": "Username"
+    },
+    //  Selector
+    //  WorkOrder
+    "Sajet.Barcode.Pages.TaskManagement.WorkOrder": {
+        "WorkOrderInfomation": "Work Order Information",
+        "WorkOrderHistory": "History",
+        "Func_CompleteWorkOrder": "Complete Work Order",
+        "Func_AbnormalEndWorkOrder": "Abnormal end Work Work Order",
+        "Msg_WoNo_Duplicate": "Work Order is duplicated",
+        "Msg_CheckSNList_Check": "The SN List quantity must match the 'Quantity'",
+        "Msg_CompleteWorkOrder_Check": "Work Order with status 'testing done'just can do this.",
+        "Msg_Edit_Check": "Work Order with status 'prepared' or 'data ready' just can do this.",
+        "Msg_AbnormalEndWorkOrder_Check": "Work Order with status 'prepared' or 'data ready' or 'testing done'just can do this."
+    },
+    "Sajet.Barcode.Pages.TaskManagement.WorkOrder.WorkOrderVM": {
+        "WoNo": "Work Order",
+        "Status": "Status",
+        "Project": "Project",
+        "DutModel": "UUT Model",
+        "DutModelVer": "Version",
+        "MachineGroup": "Machine Group",
+        "EngineerName": "Engineer",
+        "Qty": "Quantity",
+        "TestPlan": "Test Plan",
+        "TestPlanTime": "Plan Time",
+        "MailGroupName": "Mail Group",
+        "DueDate": "Due Date",
+        "CheckSN": "Check SN",
+        "CheckSNList": "SN List",
+        "CreateTime": "Create Time",
+        "CreateUser": "Create User",
+        "CloseTime": "Close Time",
+        "CloseUser": "Close User",
+        "InputQty": "Input Qty",
+        "OutputQty": "Output Qty",
+        "UpdateTime": "Update Time",
+        "UpdateUserName": "Update User",
+        "Remark": "Remark",
+        "TestPlanName": "Test Plan",
+        //  Data Annotation
+        "WoNo.Required": "Please input {0}",
+        "DueDate.Required": "Please input {0}",
+        "Project.Required": "Please input {0}",
+        "DutModel.Required": "Please input {0}"
+        //  Data Annotation*
+    },
+    "Sajet.Barcode.Pages.TaskManagement.WorkOrder.WorkOrderHTVM": {
+        "WoNo": "Work Order",
+        "Status": "Status",
+        "Project": "Project",
+        "DutModel": "UUT Model",
+        "DutModelVer": "Version",
+        "MachineGroup": "Machine Group",
+        "EngineerName": "Engineer",
+        "Qty": "Quantity",
+        "TestPlan": "Test Plan",
+        "TestPlanTime": "Plan Time",
+        "MailGroupName": "Mail Group",
+        "DueDate": "Due Date",
+        "CheckSN": "Check SN",
+        "CheckSNList": "SN List",
+        "UpdateTime": "Update Time",
+        "UpdateUserName": "Update User",
+        "Remark": "Remark",
+        "TestPlanName": "Test Plan",
+        "LogStatus": "Log Status"
+    },
+    //  WorkOrder
+    //  TestPlanMaintainence
+    "Sajet.Barcode.Pages.TaskManagement.TestPlanMaintainence": {
+        "Msg_TestPlan_Duplicate": "Test Plan is duplicated",
+        "Text_TestPlan": "Test Plan"
+    },
+    "Sajet.Barcode.Pages.TaskManagement.TestPlanMaintainence.TestPlanVM": {
+        "Project": "Project",
+        "DutModel": "UUT Model",
+        "DutModelVer": "Version",
+        "TestPlan": "Test Plan",
+        "TestPlanDesc": "Description",
+        "FileName": "File Name",
+        "HostName": "Editor PC",
+        "IPAddress": "IP Address",
+        "UpdateUserName": "Update User",
+        "UpdateTime": "Update Time",
+        "MachineGroup": "Machine Group",
+        "Enabled": "Enable",
+        "Project.Required": "Please input {0}",
+        "DutModel.Required": "Please input {0}",
+        "MachineGroup.Required": "Please input {0}",
+        "TestPlan.Required": "Please input {0}",
+        "FileName.Required": "Please input {0}",
+        "HostName.Required": "Please input {0}",
+        "IPAddress.Required": "Please input {0}",
+        "Enabled.Required": "Please input {0}"
+    },
+    //  TestPlanMaintainence
+    //  Booking
+    "Sajet.Barcode.Pages.TaskManagement.Booking": {
+        "Text_MachineBoard": "Machine Board",
+        "Text_BookingInfomation": "Booking",
+        "Text_BookingLog": "Booking Log",
+        "Func_ToDetail": "Booking",
+        "Func_ToDetailAdjust": "Adjust",
+        "Func_ChangePriority": "Change Priority",
+        "Func_Unbatch": "Disassemble",
+        "Func_PriorityUp": "Move up one row",
+        "Func_PriorityDown": "Move down one row",
+        "Msg_BookingInfomation_Selected": "Please select machine before",
+        "Msg_ChangePriority_OverMax": "Priority is excess of current max priority",
+        "Msg_ChangePriority_NotModify": "Priority does't modify",
+        "Msg_ChangePriority_CannotBeWorkable": "It is excess of Workable Quantity,you can't change priority to zero",
+        "Msg_Priority_NotNonNegInteger": "Priority must be non-negative integer",
+        "Msg_Qty_NotPositiveInteger": "Quantity must be positive integer",
+        "Msg_Qty_OverChannel": "Quantity is excess of Channel Quantity",
+        "Msg_Qty_OnlyLessThan": "Quantity can just be revised down.",
+        "Msg_UnBatch_OnlyLessThan": "Disassemble Quantity must be less than original quantity"
+    },
+    "Sajet.Barcode.Pages.TaskManagement.Booking.ChamberBoardVM": {
+        "Machine": "Machine ID",
+        "Chamber": "Chamber",
+        "Channel": "Channel Qty",
+        "FailureQty": "Failure Qty",
+        "BookedQty": "Booked Qty",
+        "ExecutingQty": "Qty in Use",
+        "AvailableQty": "Available Qty",
+        "RealAvailableQty": "Available Qty"
+    },
+    "Sajet.Barcode.Pages.TaskManagement.Booking.BookingVM": {
+        "BookingId": "Booking ID",
+        "Machine": "Machine ID",
+        "Chamber": "Chamber",
+        "WoNo": "Work Order",
+        "Qty": "Quantity",
+        "BookingStatus": "Status",
+        "Priority": "Priority",
+        "EstimatedHour": "Estimated Time",
+        "UpdateUserName": "Update User",
+        "UpdateTime": "Update Time",
+        "OldQty": "Quantity(Old)",
+        "OldPriority": "Priority(Old)",
+        "WoNo.Required": "Please input {0}",
+        "Qty.Required": "Please input {0}"
+    },
+    "Sajet.Barcode.Pages.TaskManagement.Booking.BookingLogVM": {
+        "BookingId": "Booking ID",
+        "Machine": "Machine ID",
+        "Chamber": "Chamber",
+        "WoNo": "Work Order",
+        "Qty": "Quantity",
+        "BookingStatus": "Status",
+        "Priority": "Priority",
+        "EstimatedHour": "Estimated Time",
+        "UpdateUserName": "Update User",
+        "UpdateTime": "Update Time",
+        "Status": "Status"
+    },
+    "Sajet.Barcode.Pages.TaskManagement.Booking.MainSearchVM": {
+        "WoNo": "Work Order"
+    },
+    //  Booking
+    //UserManagement
+    "Sajet.Barcode.Pages.SystemManagement.UserManagement.UserVM": {
+        "UserId": "User ID",
+        "UserName": "Username",
+        "Password": "Password",
+        "ExpiredDate": "Expiration Date",
+        "Email": "Mail",
+        "UpdateUser": "Update User",
+        "UpdateTime": "Update Time",
+        "Enabled": "Enable",
+        "CrossProject": "Cross-project",
+        "AdjustBooking": "Adjust Booking",
+        "UserRole": "Role",
+        "VendorId": "Vendor",
+        "UserId.Required": "Please input {0}",
+        "UserName.Required": "Please input {0}",
+        "Password.Required": "Please input {0}"
+    },
+    "Sajet.Barcode.Pages.SystemManagement.UserManagement": {
+        "Msg_UserNo_Duplicate": "User ID is duplicated",
+        "ForeignKeyFault": "Foreign Key exists.Cannot delete it"
+    },
+    ///
+    //  MachineUtilizationRate
+    "Sajet.Barcode.Pages.ReportQuery.MachineUtilizationRate": {
+        "Text_Master": "Master",
+        "Text_Detail": "To Detail",
+        "Text_Date": "Date",
+        "Text_UtilizationRate": "Utilization Rate(%)",
+        "Text_MachineUtilizationRate": "Utilization (%)",
+        "Text_ChannelUtilizationRate": "Channel Utilization (%)",
+        "Func_ToDetail": "To Detail"
+    },
+    "Sajet.Barcode.Pages.ReportQuery.MachineUtilizationRate.MasterVM": {
+        "MachineGroup": "Machine Group",
+        "Machine": "Machine ID",
+        "Channel": "Channel Qty",
+        "CalendarTime": "Planned Working Hours",
+        "MachineWorkHour": "Actual Working Hours",
+        "MachineUtilizationRate": "Utilization (%)",
+        "ChannelWorkHour": "Channel Working Hours",
+        "ChannelUtilizationRate": "Channel Utilization (%)"
+    },
+    "Sajet.Barcode.Pages.ReportQuery.MachineUtilizationRate.DetailVM": {
+        "Date": "Date",
+        "Channel": "Channel Qty",
+        "CalendarTime": "Planned Working Hours",
+        "MachineWorkHour": "Actual Working Hours",
+        "MachineUtilizationRate": "Utilization (%)",
+        "ChannelWorkHour": "Channel Working Hours",
+        "ChannelUtilizationRate": "Channel Utilization (%)"
+    },
+    "Sajet.Barcode.Pages.ReportQuery.MachineUtilizationRate.MasterSearchVM": {
+        "MachineGroup": "Machine Group",
+        "Machine": "Machine ID"
+    },
+    "Sajet.Barcode.Pages.ReportQuery.MachineUtilizationRate.DetailSearchVM": {
+        "Machine": "Machine ID",
+        "MachineGroup": "Machine Group",
+        "MachineGroup.Required": "Please input {0}",
+        "Machine.Required": "Please input {0}"
+    },
+    "MailTranslation": {
+        "SubjectWorkOrderStatus": "Work Order Status Notice",
+        "SubjectJobStatus": "Job Status Notice",
+        "SubjectBookingStatus": "Machine Booking Status Notice",
+        "SubjectWorkOrderDelay": "Work Order {0} Day Delayed Notice",
+        "SubjectReportImportFail": "Report Import Fail Notice",
+        "New": "New",
+        "Delete": "Delete",
+        "WorkOrder": "Work Order",
+        "Status": "Status",
+        "DueDate": "Due Date",
+        "Project": "Project",
+        "Model": "UUT Model",
+        "Version": "Version",
+        "MachineGroup": "Machine Group",
+        "TestPlan": "Test Plan",
+        "TestPlanTime": "Plan Time",
+        "EngineerName": "Engineer",
+        "BookingID": "Booking ID",
+        "Machine": "Machine ID",
+        "Chamber": "Chamber",
+        "Quantity": "Quantity",
+        "Priority": "Priority",
+        "StartTime": "Test Start Time",
+        "EstimatedEndTime": "Estimated End Time",
+        "EndTime": "Test End Time",
+        "FilePath": "File Path",
+        "ErrorMessage": "Error Message",
+        "StatusWo": {
+            "Prepare": "Prepare",
+            "Ready": "Ready",
+            "Booked": "Booked",
+            "TestAndAnalyze": "TestAndAnalyze",
+            "TestComplete": "TestComplete",
+            "Complete": "Complete",
+            "AbnormalEnd": "AbnormalEnd"
+        },
+        "StatusJob": {
+            "Prepare": "Prepare",
+            "Running": "Running",
+            "Complete": "Complete"
+        }
+    },
+    // POSelector
+    "Sajet.Barcode.Pages.Components.POSelectorVM": {
+        "PONO": "Purchase Order",
+        "PODate": "Purchase Date"
+    },
+    // POSelector
+    // POLotSelector
+    "Sajet.Barcode.Pages.Components.POLotSelectorVM": {
+        "PONO": "Purchase Order",
+        "POItem": "Order Item",
+        "PartNO": "Part NO.",
+        "LotNO": "Material Barcode",
+        "DONO": "Delivery Note",
+        "Qty": "Package Capacity",
+        "DateCode": "DateCode",
+        "UpdateTime": "Update Time"
+    },
+    "Sajet.Barcode.Pages.Components.POLotSelector.SearchFormVM": {
+        "PONO": "Purchase Order",
+        "POItem": "Order Item"
+    },
+    // POLotSelector
+    // LabelByPO
+    "Sajet.Barcode.Pages.PO.LabelByPO": {
+        "Msg_TakeNOAmoutLargeThanRemainingAmount": "The number taken exceeds the remaining amount",
+        "POItem": "Order Item",
+        "PackingCapacity": "Packing Capacity",
+        "PackingQty": "Total number of packages",
+        "TotalQty": "Total Qty",
+        "TotalNO": "Total Number of Pieces",
+        "CollapseTakeNOFormText": "CollapseTakeNOFormText",
+        "CollapseSearchFormText": "Query Pane",
+        "Msg_Delete_DONO": "Material barcode {0} cannot be deleted: delivered",
+        "Msg_PdfPrint": "Please choose data"
+    },
+    "Sajet.Barcode.Pages.PO.LabelByPO.TakeNoFormVM": {
+        "PONO": "Purchase Order",
+        "POItem": "Order Item",
+        "PartNO": "Part NO.",
+        "Spec1": "Part No. Description",
+        "TakeNODateText": "Take Number Date",
+        "Qty": "Purchase Quantity",
+        "ReceiveQty": "Received quantity",
+        "ReturnQty": "Return Qty",
+        "DateCode": "DateCode",
+        "PackingCapacity": "Packing Capacity",
+        "PackingQty": "Total number of packages",
+        "TotalQty": "Total Qty",
+        "TotalNO": "Total Number of Pieces",
+        "WithoutDONO": "Only show no delivery note generated",
+        "PONO.Required": "Please enter {0}",
+        "POItem.Required": "Please enter {0}",
+        "DateCode.Required": "Please enter {0}",
+        "PackingCapacity.Required": "Please enter {0}",
+        "PackingQty.Required": "Please enter {0}"
+    },
+    "Sajet.Barcode.Pages.PO.LabelByPO.POLotVM": {
+        "PONO": "Purchase Order",
+        "POItem": "Order Item",
+        "PartNO": "Part NO.",
+        "LotNO": "Material Barcode",
+        "DONO": "Delivery Note",
+        "Qty": "Package Capacity",
+        "DateCode": "DateCode",
+        "UpdateTime": "Update Time"
+    },
+    // LabelByPO
+    // DeliveryByPO
+    "Sajet.Barcode.Pages.PO.DeliveryByPO": {
+        "DONO": "Delivery Note Number",
+        "CollapseDOFormText": "Delivery Note Pane",
+        "Msg_DeleteWithRTNO": "The goods have been received and cannot be deleted",
+        "LotNO": "Material Barcode",
+        "Msg_CreateLotWithDONO": "The material barcode already has a delivery note number"
+    },
+    "Sajet.Barcode.Pages.PO.DeliveryByPO.DOFormVM": {
+        "DONO": "Delivery Note Number",
+        "RTNO": "Receipt Number",
+        "Description": "Remarks",
+        "ManualLotNO": "Brush into the material barcode",
+        "DONO.Required": "Please enter {0}",
+        "ManualLotNO.PlaceHolder": "Enter and press Enter to join"
+    },
+    "Sajet.Barcode.Pages.PO.DeliveryByPO.POLotVM": {
+        "PONO": "Purchase Order",
+        "POItem": "Order Item",
+        "PartNO": "Part NO.",
+        "LotNO": "Material Barcode",
+        "DONO": "Delivery Note",
+        "Qty": "Package Capacity",
+        "DateCode": "DateCode",
+        "UpdateTime": "Update Time",
+        "VendorID": "Vendor"
+    },
+    // DeliveryByPO
+    // ImportByPO
+    "Sajet.Barcode.Pages.PO.ImportByPO": {
+        "CollapseUploadFormText": "Import Job",
+        "Qty": "Package Capacity",
+        "Msg_TakeNOAmoutLargeThanRemainingAmount": "Take number exceeds the remaining amount",
+        "Msg_InvalidPartNO": "Part number error"
+    },
+    "Sajet.Barcode.Pages.PO.ImportByPO.UploadFormVM": {
+        "FilePath": "File Path",
+        "FilePath.Required": "Please upload file"
+    },
+    "Sajet.Barcode.Pages.PO.ImportByPO.ExcelDataVM": {
+        "ExcelNO": "Excel NO.",
+        "PONO": "Purchase Order",
+        "POItem": "Order Item",
+        "PartNO": "Part NO.",
+        "LotNO": "Material Barcode",
+        "Qty": "Package Capacity",
+        "DateCode": "DateCode",
+        "TotalQty": "Total Qty",
+        "TotalNO": "Total Number of Pieces",
+        "Message": "Message"
+    },
+    // ImportByPO
+    "Localization.Function": {
+        "USERS": "Users",
+        "ROLE": "Role",
+        "PO": "Order Number",
+        "LABELBYPO": "Obtaining Numbers",
+        "CHANGEPASSWORD": "Change Password",
+        "DELIVERYBYPO": "Order Delivery",
+        "IMPORTBYPO": "Import operation",
+        "QUERYBYPO": "QueryBYPO",
+        "QUERYORDER": "Query Order"
+    },
+    "Sajet.Barcode.Pages.PO.QueryByPO.POByQueryVM": {
+        "DO_NO": "Delivery Note Number",
+        "Status": "Status",
+        "RT_NO": "Receipt Number",
+        "PO_NO": "Purchase Order",
+        "PO_Item": "Order Item",
+        "Part_No": "Part No",
+        "Qty": "Qty",
+        "Spec": "Spec",
+        "Description": "Description",
+        "UpdateTime": "Update Time"
+    },
+    "Sajet.Barcode.Pages.PO.QueryByPO.DetailVM": {
+        "Lot_NO": "Material Barcode",
+        "DateCode": "Date Code",
+        "Qty": "Qty",
+        "Enabled": "Enabled"
+    },
+    "Sajet.Barcode.Pages.PO.QueryByPO.POFormVM": {
+        "DO_NO": "Delivery Note Number",
+        "PO_NO": "Purchase Line",
+        "Part_No": "Part No"
+
+    },
+    "Sajet.Barcode.Pages.PO.QueryByPO": {
+        "UpdateTime": "Update Time",
+        "StartUpdateTime": "Update Time(From)",
+        "EndUpdateTime": "Update Time(To)",
+        "Lot_NO": "Material Barcode",
+        "DateCode": "Date Code",
+        "Qty": "Qty",
+        "Enabled": "Enabled"
+    },
+    "Sajet.Barcode.Pages.PO.QueryOrder.QueryOrderVM": {
+        "PO_NO": "Purchase Line",
+        "PO_Item": "Order Item",
+        "Part_No": "Part No",
+        "Qty": "Qty",
+        "Recive_Qty": "Recive Qty",
+        "Return_Qty": "Return Qty",
+        "PO_DATE": "Purchase Date"
+    },
+    "Sajet.Barcode.Pages.PO.QueryOrder.QueryOrderDetailVM": {
+        "Lot_NO": "Lot No",
+        "DateCode": "Date Code",
+        "Qty": "Qty",
+        "Enabled": "Enabled"
+    },
+    "Sajet.Barcode.Pages.PO.QueryOrder.POFormVM": {
+        "PO_NO": "Purchase Line",
+      "Part_No": "Part No",
+    },
+  "Sajet.Barcode.Pages.PO.QueryOrder": {
+    "UpdateTime": "Update Time",
+    "StartUpdateTime": "PO Date(From)",
+    "EndUpdateTime": "PO Date(To)",
+    "Lot_NO": "Lot No",
+    "DateCode": "Date Code",
+    "Qty": "Qty",
+    "Enabled": "Enabled",
+    "EnabledLotNo": "Enabled"
+  }
+}

@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\USER\source\repos\DetailTable\DetailTable\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/BootstrapBlazor" Path="C:\Users\USER\.nuget\packages\bootstrapblazor\5.0.33\build\..\staticwebassets\" />
+</StaticWebAssets>
