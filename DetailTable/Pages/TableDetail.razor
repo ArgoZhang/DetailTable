@@ -1,0 +1,7 @@
+﻿<Table TItem="DetailVM" IsBordered="true" ShowToolbar="false" IsPagination="true" OnQueryAsync="DetailQueryAsync">
+    <TableColumns Context="Detail">
+        <TableColumn @bind-Field="@Detail.LotNo" />
+        <TableColumn @bind-Field="@Detail.DateCode" />
+        <TableColumn @bind-Field="@Detail.Enabled" />
+    </TableColumns>
+</Table>
